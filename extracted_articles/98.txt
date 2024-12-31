@@ -1,0 +1,116 @@
+Client Background
+
+Home  Our Success Stories  Incident Duration Prediction – Infrastructure and Real Estate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading research institution in the middle eastIndustry Type:  ResearchServices: R&DOrganization Size: 1000+Project ObjectiveTo complete a Research Paper draft by training various Machine Learning models which can predict the Incident Duration based on various parameters given in the dataset and summarising the results.Project DescriptionGiven a set of researches, need to analyse and compare various machine learning and deep learning models to predict the Incident Duration for the given dataset. The dataset contained Short durations as well as Long durations. Build models for each set of durations, compare and get the best out of all.Our SolutionHere, we had to predict the traffic incident duration with some machine learning tools and techniques i.e. XGBoost, SVR and Deep Learning algorithm using tensor flow. First two models were run on Python Interpreter whereas Deep learning model was run on R studio, all the three with the same dataset and then we had compared these models based on their MAE (mean absolute error). Initially, we had done a preliminary analysis of the collected incident duration data, to collect the statistical characteristics of all the variables used in our research.Project DeliverablesPython Script for each model.Documentation for Research Work.Tools usedPython InterpreterLanguage/techniques usedLanguage Used: PythonLibraries Used: pandas, sklearn, numpy, keras, pickleModels usedXGBRegressorSVRSGDRegressorSequentialDecisionTreeRegressorSkills usedProgramming, Statistical AnalysisProject Snapshots 
+
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+How will COVID-19 affect the world of work? 
+April 30, 2020 
+
+
+ 
+
+
+
+
+Analyzing the Impact of Female CEO Appointments on Company Stock Prices 
+August 25, 2024 
+
+
+ 
+
+
+
+
+What is the difference between Artificial Intelligence, Machine Learning, Statistics, and... 
+March 9, 2021 
+
+
+ 
+
+
+
+
+Lessons from the past: Some key learnings relevant to the coronavirus... 
+May 1, 2020 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Connecting MongoDB Database to Power BI Dashboard: Dashboard Automation
+
+ 
+
+
+
+ 
+Data from CRM via Zapier to Google Sheets (Dynamic) to PowerBI
+
+ 
+
+
+
+ 
+Impact of COVID-19 pandemic on office space and co-working industries.
+
+ 
+
+
+
+ 
+How advertisement/marketing affects business.

@@ -1,0 +1,118 @@
+Client Background
+
+Home  Our Success Stories  Design & develop an app in retool which shows the progress of...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A Leading Tech Firm in the USAIndustry Type: IT & ConsultingServices: Software, Business Solutions, ConsultingOrganization Size: 200+Project DescriptionThe objective was to develop a progress bar that can help costumes to estimate the analytics of the video. Our SolutionThe client wanted a progress bar with the following filters:Date filter: – Update the progress bar and count of the videos according to the date selectedCategory filter: – Update the progress bar and the count of the videos according to the selected categoryWe have created a SQL query for getting a count of the videos from the full video table according to the filter selected in the appIn added video table some columns were missing to solve this we created a SQL query for joining the added video table to the other tables and return the count of the video according to the filter selectedProject DeliverablesApp in retoolTools usedRetoolLanguage/techniques usedSQL Skills usedSQLDatabases usedSQL DatabaseWhat are the technical Challenges Faced during Project ExecutionClient wanted date filter and a video category filter but this data was not there in added video tableHow the Technical Challenges were SolvedWe had to join multiple data so that we can get category column and date column for applying filter Project SnapshotsProject Video
+
+ 
+
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Accounts Payables Analytics 
+October 3, 2020 
+
+
+ 
+
+
+
+
+Negative effects of marketing on society 
+November 19, 2022 
+
+
+ 
+
+
+
+
+Advanced Data Visualization Solutions for Monitoring Key Business Metrics with Integrated,... 
+August 25, 2024 
+
+
+ 
+
+
+
+
+Power BI integration with RestAPI, and SAML Integration 
+June 7, 2021 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Problems faced by students in online classes during COVID-19
+
+ 
+
+
+
+ 
+MisesBot Activate – Markov Chain, Text Generator
+
+ 
+
+
+
+ 
+Modeling & Simulation for Drug Development & Formulation
+
+ 
+
+
+
+ 
+How artificial intelligence can boost your productivity level?

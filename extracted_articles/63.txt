@@ -1,0 +1,120 @@
+Client Background
+
+Home  Our Success Stories  Advanced AI for Handgun Detection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the Middle EastIndustry Type:  SecurityServices: Security servicesOrganization Size: 100+The ProblemDetecting Handguns in images and videos.Our SolutionWe use Yolov7 instance segmentation model to detect and provide coordinates for handguns.Solution ArchitectureLinux 22.04
+YoloDeliverablesTrained model of yolov7 instance segmentationTools usedOpenimages
+Roboflow
+Yolov7Language/techniques usedPythonModels usedYolov7_maskSkills usedDeeplearning
+ProgrammingWhat are the technical Challenges Faced during Project ExecutionRetrieving handgun images in bulk from opensource.How the Technical Challenges were SolvedFound Openimages dataset with good amount of required imagesContact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you.  
+
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Deploy and view React app(Nextjs) on cloud VM such as GCP,... 
+August 8, 2023 
+
+
+ 
+
+
+
+
+Which one is better AI or big data? 
+July 19, 2021 
+
+
+ 
+
+
+
+
+Understanding the Millennial Market 
+April 25, 2018 
+
+
+ 
+
+
+
+
+Changing landscape and emerging trends in the Indian IT/ITeS Industry. 
+June 22, 2020 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Comprehensive Analysis of Solana and Ethereum Contributors Using GitHub API with...
+
+ 
+
+
+
+ 
+Enhancing Front-End Features and Functionality for Improved User Experience and Dashboard...
+
+ 
+
+
+
+ 
+End-to-end tool to optimize routing and planning of field engineers using...
+
+ 
+
+
+
+ 
+Online gaming: Adolescent online gaming effects demotivated, depression, musculoskeletal, and psychosomatic...

@@ -1,0 +1,116 @@
+Client Background
+
+Home  Our Success Stories  Azure Data Lake and Power BI Dashboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundOverviewStone is a video bibliographic tool for journalists and other researchers.It allows users to capture, annotate and share their journeys through digital and physical space, producing verifiable logs and generating monetizeable video highlight reels that can be embedded in digital and other media – showcasing key moments and telling the story behind the story.Our mission is to address distrust and disinformation with transparency and authenticity, while simultaneously tilting the information ecosystem in favour of quality original work.Research is valuable. Make it Visible.Write In Stone.Websitehttp://www.writeinstone.comCompany size2-10 employeesHeadquartersBlackheath, New South WalesFounded2017SpecialtiesResearch Transparency, Trust, Video Content, Journalism, Proof Of Work, and Bibliographic StandardsProject ObjectiveWorking on Microsoft Azure Analytics ServicesVerifying that indicators are being gathered in an intended manner, in line with GDPR provisionsBuilding and analyzing dashboards and, specifically, conversion funnelsProject DescriptionTo determine whether the already implemented indicators in are in intended fashion (separated by where these indicators are placed in the currently constituted funnel)Implement New IndicatorsResearch LoggedAverage Number of Highlights per ProjectTotal Hours of Content ProducedTotal Hours of Content WatchedDaily unique visitors engaging with Stone, including the landing page, public research page(s), and the research portalAssess the dashboard set up in Azure, refine the existing dashboard, and determine whether an alternative is preferable. Review, refine, and optimize the WIS conversion funnel(s)Our SolutionBuilt a Power BI dashboard as per the requirement. Also built a separate dashboard for the metric data from Azure.Project DeliverablesPower BI dashboard which contains indicators funnels, new indicators(Research logged, Average number of Highlights per projects, Total hours of content watched etc), visualizations  extracted from metric data.Tools usedPower BIAzureLanguage/techniques usedPower BIDAXKusto QueryAzureSkills usedData collectionData AnalysisData cleaningFeature engineeringQueryingVisualizationDatabases usedAzure databaseWeb Cloud Servers usedAzureWhat are the technical Challenges Faced during Project ExecutionDifficulty in data collection.  
+
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Are Customer Analytics Driving Big Data Initiatives? 
+July 31, 2017 
+
+
+ 
+
+
+
+
+End-to-end tool to optimize routing and planning of field engineers using... 
+February 28, 2024 
+
+
+ 
+
+
+
+
+Budget, Sales KPI Dashboard using Power BI 
+July 29, 2021 
+
+
+ 
+
+
+
+
+Will we ever colonize outer space? 
+October 22, 2020 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Face Recognition with Deepfills Framework – Deepface
+
+ 
+
+
+
+ 
+Human Rights Outlook
+
+ 
+
+
+
+ 
+Rise of telemedicine and its Impact on Livelihood by 2040
+
+ 
+
+
+
+ 
+Rise of OTT platform and its impact on entertainment industry by...

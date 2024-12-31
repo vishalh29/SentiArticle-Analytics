@@ -1,0 +1,118 @@
+Client Background
+
+Home  Our Success Stories  Power BI Data-Driven Map Dashboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading marketing firm in the USAIndustry Type:  Market ResearchServices: Marketing, ConsultancyOrganization Size: 60+Project ObjectiveChange bubble colors dynamically.Make table and charts linked. If a user clicks on tables values, then the bubble chart on the map should be highlighted that relates to the table. Project Description“I have a map visual. I would like to dynamically change the colours of some of the bubbles.”The report page has several filters and KPI Dashboard, whose metrics change dynamically when the user clicks a certain element. Similarly the map should also change dynamically relative to the filter.Our SolutionAdded the website data from Details table to the map visualization, it makes the bubbles get coloured dynamically according to the requirement for websites data.Project DeliverablesThe Power BI ( .pbix ) file updated with solutionTools usedPower BISkills usedPower BIData VisualizationData AnalysisDatabases usedThe database that came in with the Power BI file received from clientWhat are the technical Challenges Faced during Project ExecutionThe map was not linkedMap Bubbles were not dynamicHow the Technical Challenges were SolvedRefactoring the data model and using appropriate keys to link the data togetherThat made Map to change according to Slicers/FiltersTo Change the colour, Bookmark buttons were used in the dashboard to bring up the dynamic colour changing with slicing (works after being published)Project SnapshotsProject Video
+
+ 
+
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Efficient AWS Infrastructure Setup and Management: Addressing Security, Scalability, and Compliance 
+March 16, 2024 
+
+
+ 
+
+
+
+
+Design & Develop BERT Question Answering model explanations with visualization 
+September 16, 2022 
+
+
+ 
+
+
+
+
+Rise of e-health and its impact on humans by the year... 
+January 2, 2023 
+
+
+ 
+
+
+
+
+How you lead a project or a team without any technical... 
+September 22, 2020 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+The Future of Bank Risk Management
+
+ 
+
+
+
+ 
+End-to-end tool to predict Biofuel prices using IESO data
+
+ 
+
+
+
+ 
+Challenges and Opportunities of Big Data in Healthcare
+
+ 
+
+
+
+ 
+Transforming and Managing a Large-Scale SQL Pedigree Database to Neo4j Graph...

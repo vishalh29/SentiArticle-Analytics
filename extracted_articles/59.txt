@@ -1,0 +1,120 @@
+Client Background
+
+Home  Our Success Stories  Create a Knowledge Graph to Provide Real-time Analytics, Recommendations, and a Single...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client BackgroundClient: A leading tech firm in the USAIndustry Type:  RetailServices: Retail BusinessOrganization Size: 100+The ProblemThe Client was using NoSql Database which was slow and did not provide real-time response for complex queries. The data had many Connections and it was difficult to represent them in NoSQL or Relational Databases.Our SolutionCreate a Knowledge Graph and Provide Real-time Analytics and Recommendations using Machine Learning.Solution ArchitectureNeo4j was Installed on a Cloud VM based on Linodes.DeliverablesKnowledge graphs and Data Pipelines are used to Populate the Graph.API’s to Perform CRUD operations in real-time.Tools usedNeo4j
+PostmanLanguage/techniques usedPython
+JSONModels usedNode-Relationship modelSkills usedProgramming
+Data Engineering
+Data AnalyticsDatabases usedNeo4jWeb Cloud Servers usedLinodeWhat are the technical Challenges Faced during Project ExecutionIntegration of Firestore with Neo4j without any native integration method or driver.How the Technical Challenges were SolvedThe challenge was solved by using api to retrieve data from Firestore.Project Snapshots Contact DetailsHere are my contact details:Email: ajay@blackcoffer.comSkype: asbidyarthyWhatsApp: +91 9717367468Telegram: @asbidyarthy For project discussions and daily updates, would you like to use Slack, Skype, Telegram, or Whatsapp? Please recommend, what would work best for you. 
+
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+
+ 
+
+
+
+ 
+
+Facial Recognition Attendance System 
+
+ 
+
+
+
+ 
+
+Face Recognition Using DeepFace 
+
+  
+
+ 
+
+
+
+
+MOST POPULAR INSIGHTS
+
+
+
+
+Estimating the impact of COVID-19 on the world of work 
+May 1, 2020 
+
+
+ 
+
+
+
+
+QuickBooks dashboard to find patterns in finance, sales, and forecasts 
+September 18, 2021 
+
+
+ 
+
+
+
+
+Impact of COVID-19 (Coronavirus) on the Indian Economy 
+April 15, 2020 
+
+
+ 
+
+
+
+
+Easy Database Access 
+June 8, 2019 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Population and Community Survey of America
+
+ 
+
+
+
+ 
+Impact of COVID-19 pandemic on entertainment industries such as theaters.
+
+ 
+
+
+
+ 
+Healthcare Data Dashboard in Kibana
+
+ 
+
+
+
+ 
+How Data Analytics can help your business respond to the impact...

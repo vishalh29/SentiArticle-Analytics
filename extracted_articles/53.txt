@@ -61,8 +61,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Dashboard to track the analytics of the website using Google Analytics... 
-July 1, 2022 
+AI/ML and Predictive Modeling 
+February 3, 2022 
 
 
  
@@ -70,8 +70,8 @@ July 1, 2022
 
 
 
-An agent-based model of a Virtual Power Plant (VPP) 
-September 15, 2022 
+AI Receptionist | Voice Call Center | AI Lawyer | AI... 
+November 21, 2024 
 
 
  
@@ -79,8 +79,8 @@ September 15, 2022
 
 
 
-Recommendation System Architecture 
-October 28, 2021 
+How Metaverse is Shaping the Future? 
+January 17, 2022 
 
 
  
@@ -88,8 +88,8 @@ October 28, 2021
 
 
 
-Marketing Ads Leads Call Status Data Tool to BigQuery 
-August 30, 2021 
+AI, ML, and IoT driven Entry Management and Monitoring 
+June 19, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -97,25 +97,25 @@ August 30, 2021
 
 
  
-Advance Analytics for Refocusing Profits
+Coronavirus: Impact on the Hospitality Industry
 
  
 
 
 
  
-Building a Real-Time Log File Visualization Dashboard in Kibana
+Get Answers from Structural Equation Modeling
 
  
 
 
 
  
-How is Login Logout Time Tracking for Employees in Office done...
+OCR (Optical Character Recognition)
 
  
 
 
 
  
-Will machine replace the human in the future of work?
+Development of EA Robot for Automated Trading

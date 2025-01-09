@@ -58,8 +58,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Integrating and Deriving Insights from the Cost of Equity 
-November 29, 2020 
+Enhancing Front-End Features and Functionality for Improved User Experience and Dashboard... 
+August 26, 2024 
 
 
  
@@ -67,8 +67,8 @@ November 29, 2020
 
 
 
-Online gaming: Adolescent online gaming effects demotivated, depression, musculoskeletal, and psychosomatic... 
-June 23, 2020 
+Design and develop solution to anomaly detection classification problems 
+September 16, 2022 
 
 
  
@@ -76,8 +76,8 @@ June 23, 2020
 
 
 
-How does Big Data Help in Finance and the Growth of... 
-July 19, 2021 
+How big data & analytics is helping fashion e-tailers to capture... 
+March 24, 2018 
 
 
  
@@ -85,8 +85,8 @@ July 19, 2021
 
 
 
-E-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc… 
-July 21, 2023 
+Are Initial Big Data Efforts Focused on Gaining Insights from Existing... 
+August 13, 2017 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -94,25 +94,25 @@ July 21, 2023
 
 
  
-Department-Wise KPI Tracking Dashboard with Technician Performance Analysis for AtoZ Dependable...
+Data Studio Dashboard with a data pipeline tool synced with Podio...
 
  
 
 
 
  
-Plaid Financial Analytics – A Data-Driven Dashboard to generate insights
+Chatbot using VoiceFlow
 
  
 
 
 
  
-Text to Speech, html
+Entertainment Music Player User Analytics and Recommendations
 
  
 
 
 
  
-An outlook of healthcare by the year 2040, and how it...
+Will AI Replace Us or Work With Us?

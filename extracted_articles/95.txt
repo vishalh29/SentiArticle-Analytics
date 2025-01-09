@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Behavior Based Chi-Square model to Detect Data-Exfiltration over the Network 
-May 15, 2017 
+Car Detection in Satellite Images 
+July 21, 2023 
 
 
  
@@ -65,8 +65,8 @@ May 15, 2017
 
 
 
-Evaluating Logistic Regression Models 
-December 31, 2019 
+Rise of Electric Vehicles and its Impact on Livelihood by 2040 
+August 22, 2022 
 
 
  
@@ -74,8 +74,8 @@ December 31, 2019
 
 
 
-Data Integration for Marketers 
-November 7, 2019 
+Golden Record – A knowledge graph database approach to unfold discovery... 
+July 22, 2023 
 
 
  
@@ -83,8 +83,8 @@ November 7, 2019
 
 
 
-Advanced Patient Data Analysis Solution for Trend Identification and Improved Healthcare... 
-August 25, 2024 
+OCR – Extracting Information from Scanned Documents 
+April 18, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ August 25, 2024
 
 
  
-Estimating the impact of COVID-19 on the world of work
+Challenges and Opportunities of Big Data in Healthcare
 
  
 
 
 
  
-Advanced Data Visualization Solutions for Monitoring Key Business Metrics with Integrated,...
+Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application
 
  
 
 
 
  
-Contribution of handicrafts (Visual Arts & Literature) in the Indian economy
+Grafana Dashboard – Oscar Awards
 
  
 
 
 
  
-Future of Work: How AI Has Entered the Workplace
+Impact of COVID-19 (Coronavirus) on the Indian Economy

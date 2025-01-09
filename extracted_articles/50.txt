@@ -84,8 +84,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Challenges and Opportunities of Big Data in Healthcare 
-July 19, 2019 
+AI, ML, Deep Learning Python Tool Deliverables 
+May 5, 2021 
 
 
  
@@ -93,8 +93,8 @@ July 19, 2019
 
 
 
-Transforming Insurance Claim Processing with Automation & Artificial Intelligence 
-April 25, 2019 
+Marketing, sales, and financial data business dashboard (Wink Report) 
+September 18, 2021 
 
 
  
@@ -102,8 +102,8 @@ April 25, 2019
 
 
 
-Web Data Connector 
-July 13, 2022 
+Risk Factors and Predicting Intraoperative, and Postoperative Blood Transfusion 
+June 26, 2019 
 
 
  
@@ -111,8 +111,8 @@ July 13, 2022
 
 
 
-The future of Telehealth services. 
-April 26, 2022 
+Travel and Tourism Outlook 
+June 17, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -120,25 +120,25 @@ April 26, 2022
 
 
  
-Power BI integration with RestAPI, and SAML Integration
+Deploy Nodejs app on a cloud VM such as GCP, AWS,...
 
  
 
 
 
  
-How to Setup Custom Domain for Google App Engine Application?
+Can You Be Great Leader Without Technical Expertise
 
  
 
 
 
  
-Google Data Studio Pipeline with GCP/MySQL
+How we forecast future technologies?
 
  
 
 
 
  
-From Utopia to Reality: Marketing and the Big Data Revolution
+Integration of video-conferencing data to the existing web app

@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Audify Music Player Website in MERN Stack 
-March 14, 2021 
+AI Receptionist | Voice Call Center | AI Lawyer | AI... 
+November 21, 2024 
 
 
  
@@ -65,8 +65,8 @@ March 14, 2021
 
 
 
-Role of Big Data in Cyber Security: A Shotgun Against Rising... 
-June 11, 2017 
+What is Data Exfiltration? 
+May 14, 2017 
 
 
  
@@ -74,8 +74,8 @@ June 11, 2017
 
 
 
-Construction Accounts Payable / Payroll Analytics in POWER BI 
-March 14, 2021 
+Advanced-Data Analytics, AI, and ML for News and Media Companies 
+November 21, 2020 
 
 
  
@@ -83,8 +83,8 @@ March 14, 2021
 
 
 
-Communication with Twilio-Flex 
-January 16, 2020 
+Creating a custom report and dashboard using the data got from... 
+January 16, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ January 16, 2020
 
 
  
-Effective Management of Social Media Data Extraction: Strategies for Authentication, Security,...
+Database Discovery Tool using OpenAI
 
  
 
 
 
  
-Digital Transformation in Oil and Gas
+Sentiment Analysis Bot for Price Prediction
 
  
 
 
 
  
-NLP-based Approach for Data Transformation
+Statistical Data Analysis of Reinforced Concrete
 
  
 
 
 
  
-INDUSTRIAL REVOLUTION 4.0 – PROS AND CONS
+Impact of COVID-19 on Engineering and Medical College during this pandemic...

@@ -65,8 +65,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Marketing Drives Results With A Focus On Problems 
-November 25, 2019 
+Challenges and Opportunities of Big Data in Healthcare 
+July 19, 2019 
 
 
  
@@ -74,8 +74,8 @@ November 25, 2019
 
 
 
-Using Graph Technology to Create Single Customer View. 
-July 21, 2023 
+Traceability of information – Master your data capital 
+June 13, 2019 
 
 
  
@@ -83,8 +83,8 @@ July 21, 2023
 
 
 
-Risk Factors and Predicting Intraoperative, and Postoperative Blood Transfusion 
-June 26, 2019 
+An ETL Solution for Currency Data to Google Big Query 
+September 16, 2022 
 
 
  
@@ -92,8 +92,8 @@ June 26, 2019
 
 
 
-Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure,... 
-August 18, 2023 
+ETL and MLOps Infrastructure for Blockchain Analytics 
+September 16, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -101,25 +101,25 @@ August 18, 2023
 
 
  
-The impact of the Metaverse on financial services
+AI Bot Audio to audio
 
  
 
 
 
  
-Advanced Textual Analytics – Financial Analysis Industry
+Deploy Nodejs app on a cloud VM such as GCP, AWS,...
 
  
 
 
 
  
-Rise of Cybercrime and its Effect by the Year 2040.
+Estimating the impact of COVID-19 on the world of work
 
  
 
 
 
  
-Construction Accounts Payable / Payroll Analytics in POWER BI
+AI Chatbot using LLM, Langchain, LLama

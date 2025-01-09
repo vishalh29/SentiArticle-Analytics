@@ -76,8 +76,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Medical Classification 
-September 16, 2022 
+The impact of the Metaverse on financial services 
+February 28, 2022 
 
 
  
@@ -85,8 +85,8 @@ September 16, 2022
 
 
 
-Python Automation tool, API, Cronjob 
-May 14, 2021 
+How Data Analytics and AI are used to halt the COVID-19... 
+April 30, 2021 
 
 
  
@@ -94,8 +94,8 @@ May 14, 2021
 
 
 
-How Artificial Intelligence can deliver real value to companies? 
-October 15, 2018 
+IoT, AI, ML to Detect Fire and Smoke 
+June 17, 2020 
 
 
  
@@ -103,8 +103,8 @@ October 15, 2018
 
 
 
-ETL Pipeline 
-October 6, 2019 
+Marketing Ads Leads Call Status Data Tool to BigQuery 
+August 30, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -112,25 +112,25 @@ October 6, 2019
 
 
  
-Will Machine Replace The Human in the Future of Work?
+How Voice search makes your business a successful business.
 
  
 
 
 
  
-Digital Strategic Foresight Platform – Smart AI-Driven Dashboard
+Marketing Analytics Solution, a Big Data Approach
 
  
 
 
 
  
-NLP-based Approach for Data Transformation
+Rise of telemedicine and its Impact on Livelihood by 2040
 
  
 
 
 
  
-Pharmaceutical Data Power BI Report
+Advanced Data Visualization Solutions for Monitoring Key Business Metrics with Integrated,...

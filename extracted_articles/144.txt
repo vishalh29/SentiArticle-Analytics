@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Estimating the impact of COVID-19 on the world of work 
-May 1, 2020 
+Rising IT Cities and its Impact on the Economy, Environment, Infrastructure,... 
+August 17, 2023 
 
 
  
@@ -65,8 +65,8 @@ May 1, 2020
 
 
 
-Rise of Chatbots and its impact on customer support by the... 
-January 2, 2023 
+Ranking customer behaviours for business strategy 
+December 31, 2022 
 
 
  
@@ -74,8 +74,8 @@ January 2, 2023
 
 
 
-Networking Platform – Have a look 
-March 14, 2021 
+Problems faced by students in online classes during COVID-19 
+December 7, 2021 
 
 
  
@@ -83,8 +83,8 @@ March 14, 2021
 
 
 
-How Artificial Intelligence can deliver real value to companies? 
-October 15, 2018 
+AI audio and text conversational bot using livekit 
+November 30, 2024 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ October 15, 2018
 
 
  
-Coronavirus impact on energy markets
+AI audio and text conversational bot using livekit
 
  
 
 
 
  
-Methodology for ETL Discovery Tool using LLMA, OpenAI, Langchain
+How can Big Data & Analytics change the healthcare sector in...
 
  
 
 
 
  
-How Small Business can survive the Coronavirus Crisis
+Rise of telemedicine and its Impact on Livelihood by 2040
 
  
 
 
 
  
-How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud...
+Why scams like Nirav Modi Happen with Indian banks?

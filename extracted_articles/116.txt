@@ -58,8 +58,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Recommendation System Architecture 
-October 28, 2021 
+AWS QuickSight Reporting Dashboard 
+January 16, 2022 
 
 
  
@@ -67,8 +67,8 @@ October 28, 2021
 
 
 
-Estimating the impact of COVID-19 on the world of work 
-April 30, 2020 
+Which one is better AI or big data? 
+July 19, 2021 
 
 
  
@@ -76,8 +76,8 @@ April 30, 2020
 
 
 
-Political Intelligence Database 
-June 29, 2019 
+Design & develop an app in retool which shows the progress... 
+August 24, 2022 
 
 
  
@@ -85,8 +85,8 @@ June 29, 2019
 
 
 
-Deploy Nodejs app on a cloud VM such as GCP, AWS,... 
-August 8, 2023 
+HR Analytics Dashboard 
+October 3, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -94,25 +94,25 @@ August 8, 2023
 
 
  
-How the COVID-19 crisis is redefining jobs and services?
+QuickBooks dashboard to find patterns in finance, sales, and forecasts
 
  
 
 
 
  
-Sports Prediction Model for Multiple Sports Leagues
+Risk Factors and Predicting Intraoperative, and Postoperative Blood Transfusion
 
  
 
 
 
  
-Integration of video-conferencing data to the existing web app
+Steps to Convert a Node.js API to Python for AWS Lambda...
 
  
 
 
 
  
-Analyze Fraudulent Call Data with Stream Analytics and Visualize Results in...
+Transforming and Managing a Large-Scale SQL Pedigree Database to Neo4j Graph...

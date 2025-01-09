@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Trading Bot for FOREX 
-December 31, 2022 
+Population and Community Survey of America 
+August 22, 2021 
 
 
  
@@ -65,8 +65,8 @@ December 31, 2022
 
 
 
-OCR (Optical Character Recognition) 
-September 24, 2019 
+IoT & AI/ML Solution for Retail Walmart, Big Bazaar, Max, Reliance... 
+January 22, 2020 
 
 
  
@@ -74,8 +74,8 @@ September 24, 2019
 
 
 
-Automated Campaign Management System: A Comprehensive Solution with LinkedIn and Email... 
-March 16, 2024 
+Efficient Coach Allocation System for Sports Coaching Organization 
+August 25, 2024 
 
 
  
@@ -83,8 +83,8 @@ March 16, 2024
 
 
 
-The Future of Telehealth Services 
-April 28, 2022 
+Descriptive vs Inquisitive vs Predictive Analytics 
+April 4, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ April 28, 2022
 
 
  
-How are genetic sequencing maps affected by deep learning and AI?
+How Python became the first choice for Data Science.
 
  
 
 
 
  
-Chatbot and conversation agent Transform the experience and engagement
+How does Metaverse work in the Financial Sector?
 
  
 
 
 
  
-Python Automation tool, API, Cronjob
+Data Management Services
 
  
 
 
 
  
-Sports Prediction Model for Multiple Sports Leagues
+Time Series Analysis and Trend Forecasting Solution for Predicting News Trends

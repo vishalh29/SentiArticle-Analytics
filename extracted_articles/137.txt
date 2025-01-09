@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Design and develop solution to anomaly detection classification problems 
-September 16, 2022 
+How Metaverse and VR can reform work culture? 
+February 28, 2022 
 
 
  
@@ -65,8 +65,8 @@ September 16, 2022
 
 
 
-Why scams like Nirav Modi Happen with Indian banks? 
-April 12, 2020 
+Analytical solution for a tech firm 
+July 26, 2023 
 
 
  
@@ -74,8 +74,8 @@ April 12, 2020
 
 
 
-GPT/OCR API 
-February 27, 2024 
+What do you think is the lesson (or lessons) to be... 
+March 30, 2020 
 
 
  
@@ -83,8 +83,8 @@ February 27, 2024
 
 
 
-Datawarehouse, and Recommendations Engine for AirBNB 
-September 4, 2021 
+Coronavirus: Impact on the Hospitality Industry 
+April 28, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ September 4, 2021
 
 
  
-ETL and MLOps Infrastructure for Blockchain Analytics
+How Metaverse and VR can reform work culture?
 
  
 
 
 
  
-Stocktwits Data Structurization
+How advanced analytics are redefining banking?
 
  
 
 
 
  
-Challenges and Opportunities of Big Data in Healthcare
+PowerBI REST API – Fetching Dataflow and Refresh Schedules with semantic...
 
  
 
 
 
  
-The Emergence of Data Analytics
+Marketing Analytics Solution, a Big Data Approach

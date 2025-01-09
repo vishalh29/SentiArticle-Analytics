@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-AWS QuickSight Reporting Dashboard 
-January 16, 2022 
+Traceability of information – Master your data capital 
+June 13, 2019 
 
 
  
@@ -65,8 +65,8 @@ January 16, 2022
 
 
 
-Sentiment Analysis Bot for Price Prediction 
-March 10, 2021 
+Ikiga Data, a Global Careers Data and Insights Platform 
+March 14, 2021 
 
 
  
@@ -74,8 +74,8 @@ March 10, 2021
 
 
 
-Data Harmonization, ETL, Data Cleansing, & Classifications 
-November 7, 2019 
+Rising IT Cities and its Impact on the Economy, Environment, Infrastructure,... 
+August 17, 2023 
 
 
  
@@ -83,8 +83,8 @@ November 7, 2019
 
 
 
-Power BI integration with RestAPI, and SAML Integration 
-June 7, 2021 
+HR Analytics Dashboard 
+October 3, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ June 7, 2021
 
 
  
-Qualtrics API integration using Python
+Dynamic, Brand-Centric Dashboard for Automotive Dealerships: PDF to Financial Insights with...
 
  
 
 
 
  
-How is Login Logout Time Tracking for Employees in Office done...
+Transforming Insurance Claim Processing with Automation & Artificial Intelligence
 
  
 
 
 
  
-Design and develop MLops framework for Data-centric AI
+Transalta: Migration of servers from VMware to AWS Client
 
  
 
 
 
  
-PPT: Solution to quadratic assignment problems (QAP) using Ant Colony System
+Deploy Nodejs app on a cloud VM such as GCP, AWS,...

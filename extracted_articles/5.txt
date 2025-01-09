@@ -86,16 +86,7 @@ MOST POPULAR INSIGHTS
 
 
 
-Medical Classification 
-September 16, 2022 
-
-
- 
-
-
-
-
-Amazon Buy Bot, an Automation AI tool to Auto-Checkouts 
+Predictive Modelling, AI, ML Dashboards in Power BI 
 June 26, 2021 
 
 
@@ -104,8 +95,8 @@ June 26, 2021
 
 
 
-Text to Speech, html 
-May 10, 2019 
+Rising IT cities and its impact on the economy, environment, infrastructure,... 
+August 24, 2023 
 
 
  
@@ -113,8 +104,17 @@ May 10, 2019
 
 
 
-Oil prices by the year 2040, and how it will impact... 
-August 20, 2022 
+Website Tracking and Insights using Google Analytics, & Google Tag Manager 
+July 1, 2022 
+
+
+ 
+
+
+
+
+Political Intelligence Database 
+June 29, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -122,25 +122,25 @@ August 20, 2022
 
 
  
-Rising IT cities and its impact on the economy, environment, infrastructure,...
+Payroll Analytics
 
  
 
 
 
  
-Design and develop MLops framework for Data-centric AI
+Traction Dashboards of Marketing Campaigns and Posts
 
  
 
 
 
  
-Efficient AWS Infrastructure Setup and Management: Addressing Security, Scalability, and Compliance
+AI Bot Audio to audio
 
  
 
 
 
  
-How to access Amazon Seller Central or Vendor Central data in...
+Political Intelligence Database

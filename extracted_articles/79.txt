@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How Artificial Intelligence can deliver real value to companies? 
-September 19, 2018 
+NER Task using BERT with data in XML-format 
+August 5, 2023 
 
 
  
@@ -65,8 +65,8 @@ September 19, 2018
 
 
 
-COVID-19 Vs Indian Economy 
-April 11, 2020 
+Business Analytics In The Healthcare Industry 
+July 19, 2019 
 
 
  
@@ -74,8 +74,8 @@ April 11, 2020
 
 
 
-Google LSA Ads (Google Local Service Ads) – ETL tools and... 
-July 26, 2023 
+Design and develop retool app for wholecell.io and Asana data using... 
+August 6, 2023 
 
 
  
@@ -83,8 +83,8 @@ July 26, 2023
 
 
 
-AI-Based Algorithmic Trading Bot for Forex 
-July 26, 2023 
+Turn Your Website Analytics into Actionable Insights & Decisions Using Neo4J... 
+March 27, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ July 26, 2023
 
 
  
-Automated Job Data Import and Management Solution for Enhanced Efficiency
+Data Management – EGEAS
 
  
 
 
 
  
-Rise of OTT platform and its impact on entertainment industry by...
+Google Local Service Ads (LSA) Leads Dashboard
 
  
 
 
 
  
-Monday.com to KPI Dashboard to manage, view, and generate insights from...
+Are we any closer to preventing a nuclear holocaust?
 
  
 
 
 
  
-AWS QuickSight Reporting Dashboard
+Automate the Data Management Process

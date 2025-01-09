@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Transforming Insurance Claim Processing with Automation & Artificial Intelligence 
-April 25, 2019 
+How Political Leaders will Shape Tomorrow using Big Data & Analytics 
+April 15, 2019 
 
 
  
@@ -65,8 +65,8 @@ April 25, 2019
 
 
 
-Trading Bot for FOREX 
-December 31, 2022 
+Design and develop Jenkins shared library 
+August 6, 2023 
 
 
  
@@ -74,8 +74,8 @@ December 31, 2022
 
 
 
-Data Management Services 
-September 11, 2020 
+7up7down, 10upDown, Snakes and Ladder Games built using OOPs 
+February 28, 2024 
 
 
  
@@ -83,8 +83,8 @@ September 11, 2020
 
 
 
-ETL Pipeline 
-October 6, 2019 
+Car Parking Management System 
+June 12, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ October 6, 2019
 
 
  
-Oil prices by the year 2040, and how it will impact...
+Rise of OTT platform and its impact on entertainment industry by...
 
  
 
 
 
  
-Deploy MERN to google app engine, google cloud platform
+How Google fit measure heart and respiratory rates using a phone...
 
  
 
 
 
  
-Risk Factors and Predicting Intraoperative, and Postoperative Blood Transfusion
+Obstacles to data-driven Healthcare
 
  
 
 
 
  
-Data Analytics as a Tool to Reduce the Cost of Production...
+Grafana Dashboard – Oscar Awards

@@ -61,8 +61,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Text to Speech, html 
-May 10, 2019 
+Power BI integration with RestAPI, and SAML Integration 
+June 7, 2021 
 
 
  
@@ -70,8 +70,8 @@ May 10, 2019
 
 
 
-MetaBridges API Decentraland Integration – AR, VR 
-January 24, 2022 
+Airbnb & Homeaway Pricing Recommendation 
+March 14, 2021 
 
 
  
@@ -79,8 +79,8 @@ January 24, 2022
 
 
 
-Interpret the Coefficients in Regression Models 
-April 4, 2019 
+Impact of AI in health and medicine 
+February 11, 2021 
 
 
  
@@ -88,8 +88,8 @@ April 4, 2019
 
 
 
-Environmental impact of the COVID-19 pandemic – Lesson for the Future 
-April 30, 2021 
+Transforming the Healthcare Systems 
+April 17, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -97,25 +97,25 @@ April 30, 2021
 
 
  
-Data Warehouse to Google Data Studio (Looker) Dashboard
+Streamlined Equity Waterfall Calculation and Deal Management System
 
  
 
 
 
  
-Business Analytics in Textile Industry (Raymond Ltd.)
+How Political Leaders will Shape Tomorrow using Big Data & Analytics
 
  
 
 
 
  
-End-to-end tool to predict Biofuel prices using IESO data
+Comprehensive Analysis of Solana and Ethereum Contributors Using GitHub API with...
 
  
 
 
 
  
-Controversy as a Marketing Strategy
+Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development

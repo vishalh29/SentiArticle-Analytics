@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Real-Time sentiment analysis tool – Retail Industry 
-July 6, 2019 
+How big data and analytics is shaping tomorrow for marketing leaders? 
+August 20, 2018 
 
 
  
@@ -65,8 +65,8 @@ July 6, 2019
 
 
 
-Analyze Fraudulent Call Data with Stream Analytics and Visualize Results in... 
-March 16, 2021 
+Rise of Internet Demand and its Impact on Communications and Alternatives... 
+August 16, 2023 
 
 
  
@@ -74,17 +74,17 @@ March 16, 2021
 
 
 
-Clinical Trial: Big Data & Analytics 
-May 22, 2019 
-
-
- 
-
-
-
-
-Design and develop retool app for wholecell.io and Asana data using... 
+Data Management – EGEAS 
 August 6, 2023 
+
+
+ 
+
+
+
+
+How big data & analytics is helping fashion e-tailers to capture... 
+March 24, 2018 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ August 6, 2023
 
 
  
-Marketing Analytics to Automate Leads Call Status and Reporting
+MisesBot Activate – Markov Chain, Text Generator
 
  
 
 
 
  
-Data Harmonization, ETL, Data Cleansing, & Classifications
+What Analytics & IT Outsourcing engagement model is right for you?
 
  
 
 
 
  
-Communication with Twilio-Flex
+Data Studio Dashboard with a data pipeline tool synced with Podio...
 
  
 
 
 
  
-Clinical Trial: Big Data & Analytics
+Big Data Integration & Infrastructure Solution

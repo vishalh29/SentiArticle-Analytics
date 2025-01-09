@@ -60,8 +60,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Estimating the impact of COVID-19 on the world of work 
-May 1, 2020 
+Big Data Platform and Data Lake Tool 
+August 23, 2020 
 
 
  
@@ -69,8 +69,8 @@ May 1, 2020
 
 
 
-QuickBooks dashboard to find patterns in finance, sales, and forecasts 
-September 18, 2021 
+Automate the Data Management Process 
+August 8, 2023 
 
 
  
@@ -78,8 +78,8 @@ September 18, 2021
 
 
 
-Impact of COVID-19 (Coronavirus) on the Indian Economy 
-April 15, 2020 
+AI Chatbot using LLM, Langchain, LLama 
+July 7, 2024 
 
 
  
@@ -87,8 +87,8 @@ April 15, 2020
 
 
 
-Easy Database Access 
-June 8, 2019 
+Impact of AI in health and medicine 
+February 11, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -96,25 +96,25 @@ June 8, 2019
 
 
  
-Population and Community Survey of America
+Political Intelligence Database
 
  
 
 
 
  
-Impact of COVID-19 pandemic on entertainment industries such as theaters.
+COVID-19: How have countries been responding?
 
  
 
 
 
  
-Healthcare Data Dashboard in Kibana
+AI and ML technologies to Evaluate Learning Assessments
 
  
 
 
 
  
-How Data Analytics can help your business respond to the impact...
+Analyzing the Impact of Female CEO Appointments on Company Stock Prices

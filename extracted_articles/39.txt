@@ -118,8 +118,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Sentiment Analysis Bot for Price Prediction 
-March 10, 2021 
+Artificial intelligence in business: Separating the real from the hype 
+September 25, 2018 
 
 
  
@@ -127,8 +127,8 @@ March 10, 2021
 
 
 
-Networking Platform – Have a look 
-March 14, 2021 
+Data Studio Dashboard with a data pipeline tool synced with Podio... 
+August 25, 2024 
 
 
  
@@ -136,8 +136,8 @@ March 14, 2021
 
 
 
-Return on Advertising Spend Dashboard: Marketing Automation and Analytics using ETL... 
-July 21, 2023 
+Data Driven Dashboards, Foundation and Application in Industry 
+May 26, 2017 
 
 
  
@@ -145,8 +145,8 @@ July 21, 2023
 
 
 
-Deploy and view React app(Nextjs) on cloud VM such as GCP,... 
-August 8, 2023 
+A Leading Law Firm in the USA, Website SEO & Optimization 
+September 5, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -154,25 +154,25 @@ August 8, 2023
 
 
  
-Negative effects of marketing on society
+Future of Work: How AI Has Entered the Workplace
 
  
 
 
 
  
-Integrating and Deriving Insights from the Cost of Equity
+Grafana Dashboard to visualize and analyze sensors’ data
 
  
 
 
 
  
-MVP for a software that analyses content from audio (Pharma-based)
+AI and its impact on the Fashion Industry
 
  
 
 
 
  
-Database Discovery Tool using OpenAI
+HR Analytics Dashboard

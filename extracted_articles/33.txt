@@ -95,8 +95,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Sentiment Analysis of a Leading Restaurants Chain in the USA 
-October 5, 2020 
+AI in healthcare to Improve Patient Outcomes 
+June 26, 2021 
 
 
  
@@ -104,8 +104,8 @@ October 5, 2020
 
 
 
-How humans and machines are evolving to work together? 
-June 24, 2021 
+CRM (Monday.com, Make.com) to Data Warehouse to Klipfolio Dashboard 
+August 6, 2023 
 
 
  
@@ -113,8 +113,8 @@ June 24, 2021
 
 
 
-Sentimental Analysis on Shareholder Letter of Companies 
-August 22, 2021 
+Future of Work: How AI Has Entered the Workplace 
+May 28, 2021 
 
 
  
@@ -122,8 +122,8 @@ August 22, 2021
 
 
 
-Is telemedicine effective in treating patients? 
-April 28, 2022 
+Analytics in Healthcare Industry 
+July 4, 2018 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -131,25 +131,25 @@ April 28, 2022
 
 
  
-Design and develop PowerShell script
+How Data Analytics and AI are used to halt the COVID-19...
 
  
 
 
 
  
-Online Barometer Dashboard for Smart Schools System
+Android Mobile Apps Portfolio
 
  
 
 
 
  
-Data Analytics as a Tool to Reduce the Cost of Production...
+End-to-end tool to predict Biofuel prices using IESO data
 
  
 
 
 
  
-From Utopia to Reality: Marketing and the Big Data Revolution
+Big Data Problem & Solutions

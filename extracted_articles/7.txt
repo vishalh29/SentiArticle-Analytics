@@ -65,8 +65,8 @@ MOST POPULAR INSIGHTS
 
 
 
-AI and ML technologies to Evaluate Learning Assessments 
-September 4, 2021 
+The Metaverse and its Implications for our Digital Future. 
+February 3, 2022 
 
 
  
@@ -74,8 +74,8 @@ September 4, 2021
 
 
 
-Advanced AI for Pedestrian Crossing Safety 
-July 22, 2023 
+Facial Recognition Attendance System 
+October 18, 2024 
 
 
  
@@ -83,8 +83,8 @@ July 22, 2023
 
 
 
-COVID-19 Vs Indian Economy 
-April 11, 2020 
+Return on Advertising Spend Dashboard: Marketing Automation and Analytics using ETL... 
+July 21, 2023 
 
 
  
@@ -92,8 +92,8 @@ April 11, 2020
 
 
 
-Rise of cybercrime and its effect by the year 2040. 
-August 28, 2023 
+Solution for Contact Centre Problems 
+April 26, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -101,25 +101,25 @@ August 28, 2023
 
 
  
-Coronavirus Disease (COVID-19) Effect: The Impact and Role of Mass Media...
+An agent-based model of a Virtual Power Plant (VPP)
 
  
 
 
 
  
-The Future of Telehealth Services
+Effective Management of Social Media Data Extraction: Strategies for Authentication, Security,...
 
  
 
 
 
  
-Role of big data & analytics in banking and finance
+Qualtrics API integration using Python
 
  
 
 
 
  
-How machine learning used in finance and banking?
+Design and develop retool app for wholecell.io and Asana data using...

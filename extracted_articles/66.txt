@@ -58,8 +58,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Central School System Logistics Optimization 
-September 27, 2019 
+AI Receptionist | Voice Call Center | AI Lawyer | AI... 
+November 21, 2024 
 
 
  
@@ -67,8 +67,8 @@ September 27, 2019
 
 
 
-How Retail Industry Drive Value from Big Data? 
-July 25, 2017 
+Statistical Methods for Sales Forecasting in Retail Industry 
+May 24, 2017 
 
 
  
@@ -76,8 +76,8 @@ July 25, 2017
 
 
 
-Integration of video-conferencing data to the existing web app 
-September 15, 2022 
+Understanding the Millennial Market 
+April 25, 2018 
 
 
  
@@ -85,8 +85,8 @@ September 15, 2022
 
 
 
-Travel and Tourism Outlook 
-June 17, 2020 
+Making a robust way to sync data from airtables to mongoDB... 
+May 13, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -94,25 +94,25 @@ June 17, 2020
 
 
  
-Digital Strategic Foresight Platform – Smart AI-Driven Dashboard
+E-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…
 
  
 
 
 
  
-AI and its impact on the Fashion Industry
+Financial Modeling of the Investment Management Professionals
 
  
 
 
 
  
-What Jobs Will Robots Take From Humans in The Future?
+Google Local Service Ads (LSA) Leads Dashboard
 
  
 
 
 
  
-How machine learning used in finance and banking?
+Deploy and view React app(Nextjs) on cloud VM such as GCP,...

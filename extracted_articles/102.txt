@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Playstore & Appstore to Google Analytics (GA) or Firebase to Google... 
-September 19, 2022 
+QuickBooks dashboard to find patterns in finance, sales, and forecasts 
+September 18, 2021 
 
 
  
@@ -65,8 +65,8 @@ September 19, 2022
 
 
 
-Algorithmic trading for multiple commodities markets, like Forex, Metals, Energy, etc. 
-December 31, 2022 
+Streamlined Equity Waterfall Calculation and Deal Management System 
+March 16, 2024 
 
 
  
@@ -74,8 +74,8 @@ December 31, 2022
 
 
 
-AI in healthcare to Improve Patient Outcomes 
-June 26, 2021 
+Do All Social Media Is Owned By Meta? 
+January 17, 2022 
 
 
  
@@ -83,8 +83,8 @@ June 26, 2021
 
 
 
-Datawarehouse, and Recommendations Engine for AirBNB 
-September 4, 2021 
+Global Economy effected by Coronavirus 
+April 15, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ September 4, 2021
 
 
  
-Add SPF Record, Cpanel, Bigrock
+Advanced AI for Pedestrian Crossing Safety
 
  
 
 
 
  
-COVID-19: How have countries been responding?
+The Future of Bank Risk Management
 
  
 
 
 
  
-The workflow of a Machine Learning / Artificial Intelligence project
+Statistical Methods for Sales Forecasting in Retail Industry
 
  
 
 
 
  
-Data Management for a Political SaaS Application
+Are Initial Big Data Efforts Focused on Gaining Insights from Existing...

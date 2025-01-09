@@ -67,8 +67,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Benefits of Big Data in Different fields 
-July 20, 2021 
+Data Harmonization, ETL, Data Cleansing, & Classifications 
+November 7, 2019 
 
 
  
@@ -76,8 +76,8 @@ July 20, 2021
 
 
 
-Web Data Connector 
-July 13, 2022 
+Efficient Coach Allocation System for Sports Coaching Organization 
+August 25, 2024 
 
 
  
@@ -85,8 +85,8 @@ July 13, 2022
 
 
 
-Impact of coronavirus on the Indian economy 
-April 15, 2020 
+Ranking customer behaviours for business strategy 
+December 31, 2022 
 
 
  
@@ -94,8 +94,8 @@ April 15, 2020
 
 
 
-What is the future of mobile apps? 
-February 12, 2021 
+Online Barometer Dashboard for Smart Schools System 
+February 20, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -103,25 +103,25 @@ February 12, 2021
 
 
  
-Communication with Twilio-Flex
+Is big data the same as AI?
 
  
 
 
 
  
-KPI Dashboard for Accountants
+How to overcome your fear of making mistakes?
 
  
 
 
 
  
-Comprehensive Analysis of Solana and Ethereum Contributors Using GitHub API with...
+How artificial intelligence can boost your productivity level?
 
  
 
 
 
  
-Advance Analytics for Refocusing Profits
+End-to-end tool to predict Biofuel prices using IESO data

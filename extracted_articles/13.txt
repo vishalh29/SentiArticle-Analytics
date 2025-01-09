@@ -65,8 +65,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Easy Database Access 
-June 8, 2019 
+A web-based dashboard for the filtered data retrieval of land records 
+September 15, 2022 
 
 
  
@@ -74,8 +74,8 @@ June 8, 2019
 
 
 
-Real-Time sentiment analysis tool – Retail Industry 
-July 6, 2019 
+IoT & AI/ML Solution for Retail Walmart, Big Bazaar, Max, Reliance... 
+January 22, 2020 
 
 
  
@@ -83,8 +83,8 @@ July 6, 2019
 
 
 
-Why does your business need a chatbot? 
-September 22, 2020 
+Lipsync Automation for Celebrities and Influencers 
+September 5, 2021 
 
 
  
@@ -92,8 +92,8 @@ September 22, 2020
 
 
 
-Portfolio: Website, Dashboard, SaaS Applications, Web Apps 
-July 13, 2022 
+DOW-JONES-INDUSTRIAL-AVERAGE Time series Data Analysis: Analysis and Results of Data 
+February 18, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -101,25 +101,25 @@ July 13, 2022
 
 
  
-How to increase social media engagement for marketers?
+AWS QuickSight Reporting Dashboard
 
  
 
 
 
  
-How to Connect a Domain and Install WordPress on Microsoft Azure
+Analytics Advantages in Broadcasting Industry
 
  
 
 
 
  
-Is Perfection the Greatest enemy of Productivity?
+How does artificial intelligence affect the environment
 
  
 
 
 
  
-Is big data the same as AI?
+Rise of e-health and its impact on humans by the year...

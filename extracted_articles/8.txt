@@ -86,8 +86,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Face Recognition Using DeepFace 
-October 18, 2024 
+The impact of the Metaverse on financial services 
+February 28, 2022 
 
 
  
@@ -95,8 +95,8 @@ October 18, 2024
 
 
 
-Rise of Cyber Crime and its Effects 
-August 17, 2023 
+How AI will change the World? 
+May 29, 2021 
 
 
  
@@ -104,8 +104,8 @@ August 17, 2023
 
 
 
-ETL Pipeline 
-October 6, 2019 
+Google Local Service Ads (LSA) Leads Dashboard 
+February 14, 2022 
 
 
  
@@ -113,8 +113,8 @@ October 6, 2019
 
 
 
-Do Ethnic differences possibly influence the risk of Multiple Sclerosis development... 
-June 4, 2019 
+Automated Job Data Import and Management Solution for Enhanced Efficiency 
+August 25, 2024 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -122,25 +122,25 @@ June 4, 2019
 
 
  
-A Leading Firm in the USA, Website SEO & Optimization
+Data Integration, ELT with Neo4j Graph Database
 
  
 
 
 
  
-Lessons from the past: Some key learnings relevant to the coronavirus...
+Impact of AI in health and medicine
 
  
 
 
 
  
-Future of Work: How AI Has Entered the Workplace
+How humans and machines are evolving to work together?
 
  
 
 
 
  
-Data Engineering and Management tool (Airbyte) with custom data connectors to...
+Analyzing the Impact of Female CEO Appointments on Company Stock Prices

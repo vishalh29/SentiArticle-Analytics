@@ -83,8 +83,8 @@ MOST POPULAR INSIGHTS
 
 
 
-KPI Dashboard for Accountants 
-July 21, 2023 
+Benefits of Big Data in Different fields 
+July 20, 2021 
 
 
  
@@ -92,8 +92,8 @@ July 21, 2023
 
 
 
-Accounts Payables Analytics 
-October 3, 2020 
+Design and develop a product recommendation engine based on the features... 
+February 27, 2024 
 
 
  
@@ -101,8 +101,8 @@ October 3, 2020
 
 
 
-Grafana Dashboard – Oscar Awards 
-July 8, 2023 
+Playstore & Appstore to Google Analytics (GA) or Firebase to Google... 
+September 19, 2022 
 
 
  
@@ -110,8 +110,8 @@ July 8, 2023
 
 
 
-Design & Develop BERT Question Answering model explanations with visualization 
-September 16, 2022 
+AI Receptionist | Voice Call Center | AI Lawyer | AI... 
+November 21, 2024 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -119,25 +119,25 @@ September 16, 2022
 
 
  
-PPT: Solution to quadratic assignment problems (QAP) using Ant Colony System
+Web Data Connector
 
  
 
 
 
  
-Dashboard to track the analytics of the website using Google Analytics...
+Coronavirus impact on energy markets
 
  
 
 
 
  
-Student Database Management System
+Rise of Cybercrime and its Effect by the Year 2040.
 
  
 
 
 
  
-Impact of COVID-19 (Coronavirus) on the Indian Economy
+Political Intelligence Database

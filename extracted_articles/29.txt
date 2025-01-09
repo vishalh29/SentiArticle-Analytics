@@ -79,35 +79,35 @@ MOST POPULAR INSIGHTS
 
 
 
-Power BI dashboard to drive insights from complex data to generate... 
-February 26, 2022 
-
-
- 
-
-
-
-
-Traceability of information – Master your data capital 
-June 13, 2019 
-
-
- 
-
-
-
-
-Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web... 
-March 17, 2024 
-
-
- 
-
-
-
-
-Immigration Datawarehouse & AI-based recommendations 
+Key Audit Matters Predictive Modeling 
 September 5, 2021 
+
+
+ 
+
+
+
+
+Benefits of Big Data in Different fields 
+July 20, 2021 
+
+
+ 
+
+
+
+
+Code Review Checklist 
+April 10, 2020 
+
+
+ 
+
+
+
+
+How will COVID-19 affect the world of work? 
+April 23, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -115,25 +115,25 @@ September 5, 2021
 
 
  
-How Artificial Intelligence can deliver real value to companies?
+Impact of COVID-19 pandemic on sports events around the world.
 
  
 
 
 
  
-Database Discovery Tool using OpenAI
+Due to the COVID-19 the repercussion of the environment
 
  
 
 
 
  
-Integrating and Deriving Insights from the Cost of Equity
+Negative effects of marketing on society
 
  
 
 
 
  
-Data Management, ETL, and Data Automation
+Transforming Insurance Claim Processing with Automation & Artificial Intelligence

@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-INDUSTRIAL REVOLUTION 4.0 – PROS AND CONS 
-April 10, 2020 
+Anomaly Detection and Analysis for Enhanced Data Integrity and User Experience... 
+August 25, 2024 
 
 
  
@@ -65,8 +65,8 @@ April 10, 2020
 
 
 
-Design and develop a product recommendation engine based on the features... 
-February 27, 2024 
+Rise of e-health and its impact on humans by the year... 
+January 2, 2023 
 
 
  
@@ -74,8 +74,8 @@ February 27, 2024
 
 
 
-Estimating the impact of COVID-19 on the world of work 
-May 1, 2020 
+Realtime Video Analytics 
+April 6, 2021 
 
 
  
@@ -83,8 +83,8 @@ May 1, 2020
 
 
 
-AI Bot Driven by GraphDB Neo4j for a Leading Healthcare Tech... 
-March 23, 2021 
+Impacts of COVID 19 on Streets Sides Food Stalls 
+November 6, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,14 +92,14 @@ March 23, 2021
 
 
  
-Big Data Platform and Data Lake Tool
+Marketing Drives Results With A Focus On Problems
 
  
 
 
 
  
-Rising IT cities and its impact on the economy, environment, infrastructure,...
+An outlook of healthcare by the year 2040, and how it...
 
  
 
@@ -113,4 +113,4 @@ Student Database Management System
 
 
  
-MONETIZATION OF DATA – INNOVATE TO HARVEST THE FULL VALUE OF...
+How AI will help the Defense Power of a country?

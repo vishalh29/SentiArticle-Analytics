@@ -56,25 +56,7 @@ MOST POPULAR INSIGHTS
 
 
 
-Building an Analytics Dashboard with a PDF Parsing Pipeline for Data... 
-August 25, 2024 
-
-
- 
-
-
-
-
-Payroll Analytics 
-October 3, 2020 
-
-
- 
-
-
-
-
-Data from CRM via Zapier to Google Sheets (Dynamic) to PowerBI 
+Monday.com to KPI Dashboard to manage, view, and generate insights from... 
 July 29, 2023 
 
 
@@ -83,8 +65,26 @@ July 29, 2023
 
 
 
-A web-based dashboard for the filtered data retrieval of land records 
-September 15, 2022 
+Estimating the impact of COVID-19 on the world of work 
+April 30, 2020 
+
+
+ 
+
+
+
+
+How AI will help the Defense Power of a country? 
+June 26, 2021 
+
+
+ 
+
+
+
+
+How Voice search makes your business a successful business. 
+July 29, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ September 15, 2022
 
 
  
-Facial Recognition Attendance System
+Coronavirus: Impact on the Hospitality Industry
 
  
 
 
 
  
-Using Graph Technology to Create Single Customer View.
+Design & develop an app in retool which shows the progress...
 
  
 
 
 
  
-Auvik, Connectwise integration in Grafana
+Steps to Convert a Node.js API to Python for AWS Lambda...
 
  
 
 
 
  
-An app for updating the email id of the user and...
+Google LSA API Data Automation and Dashboarding

@@ -73,8 +73,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Python model for the analysis of sector-specific stock ETFs for investment... 
-December 31, 2022 
+Marketing Analytics to Automate Leads Call Status and Reporting 
+August 30, 2021 
 
 
  
@@ -82,8 +82,8 @@ December 31, 2022
 
 
 
-How is Login Logout Time Tracking for Employees in Office done... 
-September 28, 2021 
+Will we ever colonize outer space? 
+October 22, 2020 
 
 
  
@@ -91,8 +91,8 @@ September 28, 2021
 
 
 
-HR Analytics Dashboard 
-October 3, 2020 
+Population and Community Survey of America 
+August 22, 2021 
 
 
  
@@ -100,8 +100,8 @@ October 3, 2020
 
 
 
-What Analytics & IT Outsourcing engagement model is right for you? 
-August 2, 2018 
+Off-Page SEO 
+September 18, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -109,25 +109,25 @@ August 2, 2018
 
 
  
-Building an Analytics Dashboard with a PDF Parsing Pipeline for Data...
+Negative effects of marketing on society
 
  
 
 
 
  
-AI-Driven Backend for Audio-to-Text Conversion and Analytical Assessment in Pharmaceutical Practice
+How Metaverse is Shaping the Future?
 
  
 
 
 
  
-Obstacles to data-driven Healthcare
+How you lead a project or a team without any technical...
 
  
 
 
 
  
-Rise of e-health and its impact on humans by the year...
+Deploy Nodejs app on a cloud VM such as GCP, AWS,...

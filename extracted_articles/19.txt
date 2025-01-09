@@ -91,8 +91,8 @@ MOST POPULAR INSIGHTS
 
 
 
-MVP for a software that analyses content from audio (Pharma-based) 
-February 28, 2024 
+Management challenges for future digitalization of healthcare services 
+December 2, 2020 
 
 
  
@@ -100,8 +100,8 @@ February 28, 2024
 
 
 
-AI, ML, and IoT driven Entry Management and Monitoring 
-June 19, 2020 
+Payroll Analytics 
+October 3, 2020 
 
 
  
@@ -109,8 +109,8 @@ June 19, 2020
 
 
 
-Marketing, sales, and financial data business dashboard (Wink Report) 
-September 18, 2021 
+IoT & AI/ML Descriptive Solution Outline 
+January 22, 2020 
 
 
  
@@ -118,8 +118,8 @@ September 18, 2021
 
 
 
-Will Machine Replace The Human in the Future of Work? 
-June 25, 2021 
+Playstore & Appstore to Google Analytics (GA) or Firebase to Google... 
+September 19, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -127,25 +127,25 @@ June 25, 2021
 
 
  
-Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)
+A Leading Firm in the USA, Website SEO & Optimization
 
  
 
 
 
  
-Transforming and Managing a Large-Scale SQL Pedigree Database to Neo4j Graph...
+How Retail Industry Drive Value from Big Data?
 
  
 
 
 
  
-Rise of electric vehicle and its impact on livelihood by the...
+How to Setup Custom Domain for Google App Engine Application?
 
  
 
 
 
  
-Automated Job Data Import and Management Solution for Enhanced Efficiency
+DOW-JONES-INDUSTRIAL-AVERAGE Time series Data Analysis: Analysis and Results of Data

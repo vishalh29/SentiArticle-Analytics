@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Design and develop a product recommendation engine based on the features... 
-February 27, 2024 
+Will we ever understand the nature of consciousness? 
+October 22, 2020 
 
 
  
@@ -65,8 +65,8 @@ February 27, 2024
 
 
 
-Risk Factors and Predicting Intraoperative, and Postoperative Blood Transfusion 
-June 26, 2019 
+AI, ML, Deep Learning Python Tool Deliverables 
+May 5, 2021 
 
 
  
@@ -74,8 +74,8 @@ June 26, 2019
 
 
 
-AI Receptionist | Voice Call Center | AI Lawyer | AI... 
-November 21, 2024 
+Automate the Data Management Process 
+August 8, 2023 
 
 
  
@@ -83,8 +83,8 @@ November 21, 2024
 
 
 
-Dashboard to track the analytics of the website using Google Analytics... 
-July 1, 2022 
+ELK Stack – Elastic Queries 
+August 20, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ July 1, 2022
 
 
  
-Is Perfection the Greatest enemy of Productivity?
+Impact of AI in health and medicine
 
  
 
 
 
  
-ETL and MLOps Infrastructure for Blockchain Analytics
+Key Audit Matters Predictive Modeling
 
  
 
 
 
  
-An ETL solution for an Internet Publishing firm
+Rise of e-health and its impact on humans by the year...
 
  
 
 
 
  
-Global Economy effected by Coronavirus
+Analyze Fraudulent Call Data with Stream Analytics and Visualize Results in...

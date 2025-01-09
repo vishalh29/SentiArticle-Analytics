@@ -58,8 +58,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Centrality Measures & Their Meaning from the Network Graphs 
-April 2, 2021 
+Design and develop solution to anomaly detection classification problems 
+September 16, 2022 
 
 
  
@@ -67,8 +67,8 @@ April 2, 2021
 
 
 
-How Data Analytics and AI are used to halt the COVID-19... 
-April 30, 2021 
+Auctions Data Automation, Collection, ETL, and Management 
+May 23, 2021 
 
 
  
@@ -76,8 +76,8 @@ April 30, 2021
 
 
 
-Rise of Cybercrime and its Effect by the Year 2040. 
-August 16, 2023 
+Dashboard to track the analytics of the website using Google Analytics... 
+July 1, 2022 
 
 
  
@@ -85,8 +85,8 @@ August 16, 2023
 
 
 
-Marketing Ads Leads Call Status Data Tool to BigQuery 
-August 30, 2021 
+How will COVID-19 affect the world of work? 
+April 23, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -94,25 +94,25 @@ August 30, 2021
 
 
  
-Will we ever colonize outer space?
+Design and develop solution to anomaly detection classification problems
 
  
 
 
 
  
-IOT, AI, ML for Machine Tracking
+From Utopia to Reality: Marketing and the Big Data Revolution
 
  
 
 
 
  
-Online gaming: Adolescent online gaming effects demotivated, depression, musculoskeletal, and psychosomatic...
+An ETL tool to pull data from Shiphero to Google Bigquery...
 
  
 
 
 
  
-Playstore & Appstore to Google Analytics (GA) or Firebase to Google...
+Android Mobile Apps Portfolio

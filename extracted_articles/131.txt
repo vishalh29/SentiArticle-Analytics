@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Blockchain in Fintech 
-September 14, 2019 
+Evolution of Advertising Industry 
+May 5, 2021 
 
 
  
@@ -65,8 +65,8 @@ September 14, 2019
 
 
 
-Can robots tackle late-life loneliness? 
-December 2, 2020 
+Impact of COVID-19 pandemic on sports events around the world. 
+June 23, 2020 
 
 
  
@@ -74,8 +74,8 @@ December 2, 2020
 
 
 
-How Small Business can survive the Coronavirus Crisis 
-August 18, 2020 
+7up7down, 10upDown, Snakes and Ladder Games built using OOPs 
+February 28, 2024 
 
 
  
@@ -83,8 +83,8 @@ August 18, 2020
 
 
 
-The future of Telehealth services. 
-April 26, 2022 
+Controversy as a Marketing Strategy 
+April 28, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ April 26, 2022
 
 
  
-Auctions Data Automation, Collection, ETL, and Management
+Real-Time sentiment analysis tool – Retail Industry
 
  
 
 
 
  
-Elastic Kibana Specialist to Create Dashboard & Visualization
+How Artificial Intelligence can deliver real value to companies?
 
  
 
 
 
  
-Deploy node.js apps to google app engine, google cloud platform
+Add SPF Record, Cpanel, Bigrock
 
  
 
 
 
  
-Google Local Service Ads (LSA) Data Warehouse
+Impacts of COVID 19 on Streets Sides Food Stalls

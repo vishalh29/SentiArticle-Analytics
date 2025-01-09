@@ -76,7 +76,16 @@ MOST POPULAR INSIGHTS
 
 
 
-How will COVID-19 affect the world of work? 
+Rise of Chatbots and its impact on customer support by the... 
+January 2, 2023 
+
+
+ 
+
+
+
+
+COVID-19: How have countries been responding? 
 April 30, 2020 
 
 
@@ -85,8 +94,8 @@ April 30, 2020
 
 
 
-Deep learning impact on areas of e-learning? 
-May 29, 2021 
+Are we any closer to preventing a nuclear holocaust? 
+October 23, 2020 
 
 
  
@@ -94,17 +103,8 @@ May 29, 2021
 
 
 
-Healthcare Data Dashboard in Kibana 
-May 15, 2021 
-
-
- 
-
-
-
-
-Marketing Tool to Notify Leads to Clients over Email and Phone 
-August 30, 2021 
+How Python became the first choice for Data Science. 
+March 4, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -112,7 +112,21 @@ August 30, 2021
 
 
  
-Transforming the Healthcare Systems
+How big data and analytics is shaping tomorrow for marketing leaders?
+
+ 
+
+
+
+ 
+How does marketing influence businesses and consumers?
+
+ 
+
+
+
+ 
+Rise of telemedicine and its Impact on Livelihood by 2040
 
  
 
@@ -120,17 +134,3 @@ Transforming the Healthcare Systems
 
  
 Steps to Meta-Analysis
-
- 
-
-
-
- 
-How to Connect a Domain and Install WordPress on Microsoft Azure
-
- 
-
-
-
- 
-How Metaverse is Shaping the Future?

@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-A Leading Hospitality Firm in the USA, Website SEO & Optimization 
-September 5, 2021 
+Data security Protect a major enterprise asset 
+June 12, 2019 
 
 
  
@@ -65,16 +65,7 @@ September 5, 2021
 
 
 
-Impact of COVID-19 pandemic on office space and co-working industries. 
-June 18, 2020 
-
-
- 
-
-
-
-
-Efficient Coach Allocation System for Sports Coaching Organization 
+Securing Sensitive Financial Data with Privacy-Preserving Machine Learning for Predictive Analytics 
 August 25, 2024 
 
 
@@ -83,8 +74,17 @@ August 25, 2024
 
 
 
-Deploy and view React app(Nextjs) on cloud VM such as GCP,... 
-August 8, 2023 
+How can Big Data & Analytics change the healthcare sector in... 
+March 15, 2018 
+
+
+ 
+
+
+
+
+Impact of newly discovered coronavirus on the Global Economy 
+April 12, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ August 8, 2023
 
 
  
-Advanced AI for Pedestrian Crossing Safety
+COVID-19: How have countries been responding?
 
  
 
 
 
  
-MVP for a software that analyses content from audio (Pharma-based)
+Supplier Insights and Decision Supports for the eCommerce Outlets
 
  
 
 
 
  
-Data Transformation
+Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the...
 
  
 
 
 
  
-Impact of Indian Economy due to COVID-19
+Student Database Management System

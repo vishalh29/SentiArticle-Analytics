@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Sports Prediction Model for Multiple Sports Leagues 
-August 25, 2024 
+Business Analytics In The Healthcare Industry 
+July 19, 2019 
 
 
  
@@ -65,8 +65,8 @@ August 25, 2024
 
 
 
-Cloud-Based Web Application for Financial Data Processing and Visualization of S&P... 
-August 25, 2024 
+Design and develop a retool app that will show stock and... 
+August 6, 2023 
 
 
  
@@ -74,8 +74,8 @@ August 25, 2024
 
 
 
-COVID-19: How have countries been responding? 
-April 30, 2020 
+AI solution for a Technology, Information and Internet firm 
+July 26, 2023 
 
 
  
@@ -83,8 +83,8 @@ April 30, 2020
 
 
 
-Efficient AWS Infrastructure Setup and Management: Addressing Security, Scalability, and Compliance 
-March 16, 2024 
+Political Intelligence Database 
+June 29, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ March 16, 2024
 
 
  
-Analyzing the Impact of Female CEO Appointments on Company Stock Prices
+Rising IT Cities and its Impact on the Economy, Environment, Infrastructure,...
 
  
 
 
 
  
-Electric Vehicles (EV) Load Management System to Forecast Energy Demand
+How machine learning will affect your business?
 
  
 
 
 
  
-Data ETL: Local Service Ads Leads to BigQuery
+The workflow of a Machine Learning / Artificial Intelligence project
 
  
 
 
 
  
-Rise of Internet Demand and its Impact on Communications and Alternatives...
+Impact of COVID-19 on Engineering and Medical College during this pandemic...

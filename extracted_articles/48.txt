@@ -83,8 +83,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Microsoft Azure chatbot with LUIS (Language Understanding) 
-January 24, 2022 
+Fitting Piecewise Growth Models in R 
+October 16, 2019 
 
 
  
@@ -92,8 +92,8 @@ January 24, 2022
 
 
 
-How Google fit measure heart and respiratory rates using a phone... 
-March 4, 2021 
+KPI Dashboard for Accountants 
+July 21, 2023 
 
 
  
@@ -101,8 +101,8 @@ March 4, 2021
 
 
 
-A Leading Hospitality Firm in the USA, Website SEO & Optimization 
-September 5, 2021 
+Advanced Data Visualization Solutions for Monitoring Key Business Metrics with Integrated,... 
+August 25, 2024 
 
 
  
@@ -110,8 +110,8 @@ September 5, 2021
 
 
 
-Central School System Logistics Optimization 
-September 27, 2019 
+Analyzing the Impact of Female CEO Appointments on Company Stock Prices 
+August 25, 2024 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -119,25 +119,25 @@ September 27, 2019
 
 
  
-Global financial crisis 2008 causes/effects and its solution
+How Metaverse is Shaping the Future?
 
  
 
 
 
  
-Gangala.in: E-commerce Big Data ETL / ELT Solution and Data Warehouse
+Google Local Service Ads LSA API To Google BigQuery to Google...
 
  
 
 
 
  
-AI Bot Audio to audio
+How you lead a project or a team without any technical...
 
  
 
 
 
  
-The workflow of a Machine Learning / Artificial Intelligence project
+The future of Investing

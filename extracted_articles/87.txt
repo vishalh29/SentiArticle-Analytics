@@ -74,8 +74,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Data Transformation 
-July 21, 2023 
+Oil prices by the year 2040, and how it will impact... 
+August 20, 2022 
 
 
  
@@ -83,8 +83,8 @@ July 21, 2023
 
 
 
-Data Integration, ELT with Neo4j Graph Database 
-April 8, 2021 
+Data Warehouse to Google Data Studio (Looker) Dashboard 
+July 29, 2023 
 
 
  
@@ -92,8 +92,8 @@ April 8, 2021
 
 
 
-Rise of electric vehicle and its impact on livelihood by the... 
-August 22, 2022 
+Central School System Logistics Optimization 
+September 27, 2019 
 
 
  
@@ -101,8 +101,8 @@ August 22, 2022
 
 
 
-Impact of COVID-19 pandemic on Tourism & Aviation industries 
-June 22, 2020 
+Steps to Meta-Analysis 
+November 4, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -110,25 +110,25 @@ June 22, 2020
 
 
  
-ROAS Dashboard for Campaign-Wise Google Ads Budget Tracking Using Google Ads...
+Anomaly Detection and Analysis for Enhanced Data Integrity and User Experience...
 
  
 
 
 
  
-Marketing Analytics Solution, a Big Data Approach
+Steps to Meta-Analysis
 
  
 
 
 
  
-Rising IT cities will impact the economy, environment, infrastructure, and city...
+What Analytics & IT Outsourcing engagement model is right for you?
 
  
 
 
 
  
-Population and Community Survey of America
+Android Mobile Apps Portfolio

@@ -54,8 +54,8 @@ MOST POPULAR INSIGHTS
 
 
 
-A Leading Law Firm in the USA, Website SEO & Optimization 
-September 5, 2021 
+Dockerize the AWS Lambda for serverless architecture 
+February 27, 2024 
 
 
  
@@ -63,8 +63,8 @@ September 5, 2021
 
 
 
-Rise of cybercrime and its effect by the year 2040. 
-August 28, 2023 
+Data science – Create Tailored algorithms 
+June 14, 2019 
 
 
  
@@ -72,8 +72,8 @@ August 28, 2023
 
 
 
-Azure Data Lake and Power BI Dashboard 
-January 16, 2022 
+Plaid Financial Analytics – A Data-Driven Dashboard to generate insights 
+July 29, 2023 
 
 
  
@@ -81,8 +81,8 @@ January 16, 2022
 
 
 
-How to overcome your fear of making mistakes? 
-August 20, 2020 
+Data integration and big data performance using Elasticsearch 
+July 13, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -90,25 +90,25 @@ August 20, 2020
 
 
  
-Impact of COVID-19 pandemic on sports events around the world.
+OCR – Extracting Information from Scanned Documents
 
  
 
 
 
  
-Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+Marketing Tool to Notify Leads to Clients over Email and Phone
 
  
 
 
 
  
-How to increase social media engagement for marketers?
+How marketers can start integrating AI in their work
 
  
 
 
 
  
-Evolution of Advertising Industry
+Big Data Analytics through IoT in Oil and Gas Industry

@@ -69,8 +69,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How advertisement/marketing affects business. 
-November 19, 2022 
+Structural Equation Modeling (SEM) 
+April 12, 2019 
 
 
  
@@ -78,8 +78,8 @@ November 19, 2022
 
 
 
-Evaluating Logistic Regression Models 
-December 31, 2019 
+Role of Big Data in Cyber Security: A Shotgun Against Rising... 
+June 11, 2017 
 
 
  
@@ -87,8 +87,8 @@ December 31, 2019
 
 
 
-OCR (Optical Character Recognition) 
-September 24, 2019 
+The 8 Steps of AI/ML Project 
+January 14, 2020 
 
 
  
@@ -96,8 +96,8 @@ September 24, 2019
 
 
 
-Recommendation Engine for Insurance Sector to Expand Business in the Rural... 
-July 29, 2023 
+How AI will impact the future of work? 
+May 26, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -105,25 +105,25 @@ July 29, 2023
 
 
  
-Replacing existing pavement roads, parking lots and sidewalks with pavement made...
+Role of Big Data in Academia
 
  
 
 
 
  
-The impact of the Metaverse on financial services
+Recommendation Engine for Insurance Sector to Expand Business in the Rural...
 
  
 
 
 
  
-Financial Modeling of the Investment Management Professionals
+Data Management, ETL, and Data Automation
 
  
 
 
 
  
-Impact of Indian Economy due to COVID-19
+Golden Record – A knowledge graph database approach to unfold discovery...

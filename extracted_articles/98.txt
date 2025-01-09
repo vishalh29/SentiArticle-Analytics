@@ -56,6 +56,15 @@ MOST POPULAR INSIGHTS
 
 
 
+Data Management – EGEAS 
+August 6, 2023 
+
+
+ 
+
+
+
+
 How will COVID-19 affect the world of work? 
 April 30, 2020 
 
@@ -65,8 +74,8 @@ April 30, 2020
 
 
 
-Analyzing the Impact of Female CEO Appointments on Company Stock Prices 
-August 25, 2024 
+Credit Scoring model 
+January 14, 2019 
 
 
  
@@ -74,17 +83,8 @@ August 25, 2024
 
 
 
-What is the difference between Artificial Intelligence, Machine Learning, Statistics, and... 
-March 9, 2021 
-
-
- 
-
-
-
-
-Lessons from the past: Some key learnings relevant to the coronavirus... 
-May 1, 2020 
+Big Data Integration & Infrastructure Solution 
+November 5, 2018 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ May 1, 2020
 
 
  
-Connecting MongoDB Database to Power BI Dashboard: Dashboard Automation
+Advanced-Data Analytics, AI, and ML for News and Media Companies
 
  
 
 
 
  
-Data from CRM via Zapier to Google Sheets (Dynamic) to PowerBI
+How Artificial Intelligence can deliver real value to companies?
 
  
 
 
 
  
-Impact of COVID-19 pandemic on office space and co-working industries.
+AI/ML and Predictive Modeling
 
  
 
 
 
  
-How advertisement/marketing affects business.
+What if the Creation is Taking Over the Creator?

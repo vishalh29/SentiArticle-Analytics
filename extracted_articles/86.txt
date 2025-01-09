@@ -58,8 +58,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Accounts Payables Analytics 
-October 3, 2020 
+Impact of newly discovered coronavirus on the Global Economy 
+April 12, 2020 
 
 
  
@@ -67,8 +67,8 @@ October 3, 2020
 
 
 
-Negative effects of marketing on society 
-November 19, 2022 
+How humans and machines are evolving to work together? 
+June 24, 2021 
 
 
  
@@ -76,8 +76,8 @@ November 19, 2022
 
 
 
-Advanced Data Visualization Solutions for Monitoring Key Business Metrics with Integrated,... 
-August 25, 2024 
+Role of Big Data in Academia 
+May 26, 2017 
 
 
  
@@ -85,8 +85,8 @@ August 25, 2024
 
 
 
-Power BI integration with RestAPI, and SAML Integration 
-June 7, 2021 
+Analytics Advantages in Broadcasting Industry 
+February 9, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -94,25 +94,25 @@ June 7, 2021
 
 
  
-Problems faced by students in online classes during COVID-19
+CRM (Monday.com, Make.com) to Data Warehouse to Klipfolio Dashboard
 
  
 
 
 
  
-MisesBot Activate – Markov Chain, Text Generator
+Datawarehouse, and Recommendations Engine for AirBNB
 
  
 
 
 
  
-Modeling & Simulation for Drug Development & Formulation
+Automated Campaign Management System: A Comprehensive Solution with LinkedIn and Email...
 
  
 
 
 
  
-How artificial intelligence can boost your productivity level?
+Connecting MongoDB Database to Power BI Dashboard: Dashboard Automation

@@ -60,8 +60,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Deploy and view React app(Nextjs) on cloud VM such as GCP,... 
-August 8, 2023 
+Elastic Kibana Specialist to Create Dashboard & Visualization 
+May 16, 2021 
 
 
  
@@ -69,8 +69,8 @@ August 8, 2023
 
 
 
-Which one is better AI or big data? 
-July 19, 2021 
+Credit Scoring model 
+January 14, 2019 
 
 
  
@@ -78,8 +78,8 @@ July 19, 2021
 
 
 
-Understanding the Millennial Market 
-April 25, 2018 
+Data Management Services 
+September 11, 2020 
 
 
  
@@ -87,8 +87,8 @@ April 25, 2018
 
 
 
-Changing landscape and emerging trends in the Indian IT/ITeS Industry. 
-June 22, 2020 
+How will COVID-19 affect the world of work? 
+April 29, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -96,25 +96,25 @@ June 22, 2020
 
 
  
-Comprehensive Analysis of Solana and Ethereum Contributors Using GitHub API with...
+How Artificial Intelligence can deliver real value to companies?
 
  
 
 
 
  
-Enhancing Front-End Features and Functionality for Improved User Experience and Dashboard...
+Rise of telemedicine and its Impact on Livelihood by 2040
 
  
 
 
 
  
-End-to-end tool to optimize routing and planning of field engineers using...
+Rise of Chatbots and its impact on customer support by the...
 
  
 
 
 
  
-Online gaming: Adolescent online gaming effects demotivated, depression, musculoskeletal, and psychosomatic...
+Advanced AI for Trading Automation

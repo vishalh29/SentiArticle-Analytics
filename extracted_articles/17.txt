@@ -82,8 +82,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Rise of Cybercrime and its Effect by the Year 2040. 
-August 16, 2023 
+Sentiment Analysis of a Leading Restaurants Chain in the USA 
+October 5, 2020 
 
 
  
@@ -91,8 +91,8 @@ August 16, 2023
 
 
 
-What is the future of mobile apps? 
-February 12, 2021 
+IoT & AI/ML Solution for Gas Stations 
+January 22, 2020 
 
 
  
@@ -100,8 +100,8 @@ February 12, 2021
 
 
 
-How we forecast future technologies? 
-January 13, 2021 
+Anomaly Detection and Analysis for Enhanced Data Integrity and User Experience... 
+August 25, 2024 
 
 
  
@@ -109,8 +109,8 @@ January 13, 2021
 
 
 
-Data Management, ETL, and Data Automation 
-August 6, 2023 
+Car Parking Management System 
+June 12, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -118,25 +118,25 @@ August 6, 2023
 
 
  
-IoT & AI/ML Solution for Gas Stations
+Google Data Studio Pipeline with GCP/MySQL
 
  
 
 
 
  
-Student Database Management System
+Auctions Data Automation, Collection, ETL, and Management
 
  
 
 
 
  
-Design and develop a product recommendation engine based on the features...
+A Leading Law Firm in the USA, Website SEO & Optimization
 
  
 
 
 
  
-AI/ML and Predictive Modeling
+Streamlining Time Calculation in Warehouse Management: Leveraging ShipHero API and Google...

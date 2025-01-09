@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Business Analytics In The Healthcare Industry 
-July 19, 2019 
+Google Data Studio Dashboard for Marketing, ads and Traction data 
+January 16, 2022 
 
 
  
@@ -65,8 +65,8 @@ July 19, 2019
 
 
 
-Turn Your Website Analytics into Actionable Insights & Decisions Using Neo4J... 
-March 27, 2021 
+Database Discovery Tool using OpenAI 
+January 20, 2024 
 
 
  
@@ -74,8 +74,8 @@ March 27, 2021
 
 
 
-Database Normalization & Segmentation with Google Data Studio Dashboard Insights 
-February 27, 2022 
+Power BI Data-Driven Map Dashboard 
+February 26, 2022 
 
 
  
@@ -83,8 +83,8 @@ February 27, 2022
 
 
 
-Enhancing Data Collection for Research Institutions: Addressing Survey Fatigue and Incorporating... 
-August 25, 2024 
+How Metaverse will change your life? 
+February 3, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ August 25, 2024
 
 
  
-Is telemedicine effective in treating patients?
+Fitting Piecewise Growth Models in R
 
  
 
 
 
  
-Challenges and Opportunities of Big Data in Healthcare
+Problems faced by students in online classes during COVID-19
 
  
 
 
 
  
-Ikiga Data, a Global Careers Data and Insights Platform
+Continued Demand for Sustainability
 
  
 
 
 
  
-How Data Analytics and AI are used to halt the COVID-19...
+Efficient Processing and Analysis of Financial Data from PDF Files: Addressing...

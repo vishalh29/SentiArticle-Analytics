@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Algorithmic trading for multiple commodities markets, like Forex, Metals, Energy, etc. 
-December 31, 2022 
+Power BI Data-Driven Map Dashboard 
+February 26, 2022 
 
 
  
@@ -65,8 +65,8 @@ December 31, 2022
 
 
 
-How you lead a project or a team without any technical... 
-September 22, 2020 
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes 
+October 24, 2024 
 
 
  
@@ -74,8 +74,8 @@ September 22, 2020
 
 
 
-Streamlined Trading Operations Interface for MetaTrader 4: Empowering Efficient Management and... 
-March 17, 2024 
+Solution for Contact Centre Problems 
+April 26, 2021 
 
 
  
@@ -83,8 +83,8 @@ March 17, 2024
 
 
 
-Advanced Data Visualization Solutions for Monitoring Key Business Metrics with Integrated,... 
-August 25, 2024 
+Impacts of COVID 19 on Streets Sides Food Stalls 
+November 6, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ August 25, 2024
 
 
  
-The future of Investing
+Data Management, ETL, and Data Automation
 
  
 
 
 
  
-The future of Telehealth services.
+How to Overcome Your Fear of Making Mistakes
 
  
 
 
 
  
-Rise of Electric Vehicles and its Impact on Livelihood by 2040
+KPI Dashboard for Accountants
 
  
 
 
 
  
-Algorithmic trading for multiple commodities markets, like Forex, Metals, Energy, etc.
+SurveyMonkey Business Questioner Report using Power BI

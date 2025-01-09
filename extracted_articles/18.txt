@@ -66,8 +66,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Data Harmonization, ETL, Data Cleansing, & Classifications 
-November 7, 2019 
+Analytics in Healthcare Industry 
+July 4, 2018 
 
 
  
@@ -75,8 +75,8 @@ November 7, 2019
 
 
 
-Medical Classification 
-September 16, 2022 
+Can You Be Great Leader Without Technical Expertise 
+September 22, 2020 
 
 
  
@@ -84,8 +84,8 @@ September 16, 2022
 
 
 
-Text Summarizing Tool to scrape and summarize pubmed medical papers  
-February 28, 2024 
+COVID-19 Vs Indian Economy 
+April 11, 2020 
 
 
  
@@ -93,8 +93,8 @@ February 28, 2024
 
 
 
-Payroll Analytics 
-October 3, 2020 
+Evolution of Advertising Industry 
+May 5, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -102,25 +102,25 @@ October 3, 2020
 
 
  
-Interpret the Coefficients in Regression Models
+How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud...
 
  
 
 
 
  
-Realtime Kibana Dashboard for a financial tech firm
+An AI ML-based web application that detects the correctness of text...
 
  
 
 
 
  
-Future of Work: How AI Has Entered the Workplace
+Problems faced by students in online classes during COVID-19
 
  
 
 
 
  
-Automated Orthopedic Case Report Generation: Harnessing Web Scraping and AI Integration
+IoT & AI/ML Solution for Gas Stations

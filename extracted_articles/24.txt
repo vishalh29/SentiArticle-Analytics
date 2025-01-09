@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Auvik, Connectwise integration in Grafana 
-July 13, 2022 
+Impact of COVID-19 pandemic on office space and co-working industries. 
+June 18, 2020 
 
 
  
@@ -65,8 +65,8 @@ July 13, 2022
 
 
 
-The future of Fintech AI & blockchain. 
-February 12, 2021 
+Transalta: Migration of servers from VMware to AWS Client 
+January 16, 2020 
 
 
  
@@ -74,8 +74,8 @@ February 12, 2021
 
 
 
-Data Warehouse to Google Data Studio (Looker) Dashboard 
-July 29, 2023 
+Will technology eliminate the need for animal testing in drug development? 
+October 22, 2020 
 
 
  
@@ -83,8 +83,8 @@ July 29, 2023
 
 
 
-Rising IT cities will impact the economy, environment, infrastructure, and city... 
-October 17, 2022 
+Bank Risk Management in India 
+June 1, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ October 17, 2022
 
 
  
-Sentiment Analysis Bot for Price Prediction
+Is telehealth the future of healthcare?
 
  
 
 
 
  
-Clinical Trial: Big Data & Analytics
+Website Tracking and Insights using Google Analytics, & Google Tag Manager
 
  
 
 
 
  
-Advanced Patient Data Analysis Solution for Trend Identification and Improved Healthcare...
+How advanced analytics are redefining banking?
 
  
 
 
 
  
-Modeling & Simulation for Drug Development & Formulation
+Marketing Analytics Solution, a Big Data Approach

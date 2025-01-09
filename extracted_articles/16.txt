@@ -93,8 +93,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Efficient Database Design and Management: Streamlining Access and Integration for Partner... 
-March 16, 2024 
+An AI ML-based web application that detects the correctness of text... 
+July 8, 2022 
 
 
  
@@ -102,8 +102,8 @@ March 16, 2024
 
 
 
-Python model for the analysis of sector-specific stock ETFs for investment... 
-December 31, 2022 
+The Future of Bank Risk Management 
+June 1, 2019 
 
 
  
@@ -111,8 +111,8 @@ December 31, 2022
 
 
 
-Marketing Tool to Notify Leads to Clients over Email and Phone 
-August 30, 2021 
+Entertainment Music Player User Analytics and Recommendations 
+March 23, 2021 
 
 
  
@@ -120,8 +120,8 @@ August 30, 2021
 
 
 
-React Native Apps in the Development Portfolio 
-September 6, 2021 
+Coronavirus impact on energy markets 
+May 1, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -129,25 +129,25 @@ September 6, 2021
 
 
  
-Sports Prediction Model for Multiple Sports Leagues
+Marketing, sales, and financial data business dashboard (Wink Report)
 
  
 
 
 
  
-Risk Factors and Predicting Intraoperative, and Postoperative Blood Transfusion
+Mitigating Bank risk management
 
  
 
 
 
  
-How Telehealth and Telemedicine helping people to fight against COVID-19
+What if the Creation is Taking Over the Creator?
 
  
 
 
 
  
-MVP for a software that analyses content from audio (Pharma-based)
+How Data Analytics and AI are used to halt the COVID-19...

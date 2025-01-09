@@ -56,35 +56,35 @@ MOST POPULAR INSIGHTS
 
 
 
-The workflow of a Machine Learning / Artificial Intelligence project 
-January 14, 2020 
-
-
- 
-
-
-
-
-Data integration and big data performance using Elasticsearch 
-July 13, 2022 
-
-
- 
-
-
-
-
-IoT, AI, ML to Detect Fire and Smoke 
-June 17, 2020 
-
-
- 
-
-
-
-
-Voter Profile Analysis and Search Application for Targeted Campaign Engagement Using... 
+AI-Driven Backend for Audio-to-Text Conversion and Analytical Assessment in Pharmaceutical Practice 
 August 25, 2024 
+
+
+ 
+
+
+
+
+Role of Big Data in Academia 
+May 26, 2017 
+
+
+ 
+
+
+
+
+How is Login Logout Time Tracking for Employees in Office done... 
+September 28, 2021 
+
+
+ 
+
+
+
+
+Data Analytics as a Tool to Reduce the Cost of Production... 
+February 21, 2018 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ August 25, 2024
 
 
  
-Is telemedicine effective in treating patients?
+Deploy Nodejs app on a cloud VM such as GCP, AWS,...
 
  
 
 
 
  
-Easy Access to Performance Metrics – Realtime Dashboard
+Advanced AI for Road Cam Threat Detection
 
  
 
 
 
  
-Enhancing Model Accuracy from 58% to Over 90%: Strategies for Improving...
+Data from CRM via Zapier to Google Sheets (Dynamic) to PowerBI
 
  
 
 
 
  
-What Analytics & IT Outsourcing engagement model is right for you?
+Blockchain for Payments

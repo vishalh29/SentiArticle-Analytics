@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-ETL Pipeline 
-October 6, 2019 
+Coronavirus Disease (COVID-19) Effect: The Impact and Role of Mass Media... 
+March 30, 2020 
 
 
  
@@ -65,8 +65,8 @@ October 6, 2019
 
 
 
-Predictive Modelling, AI, ML Dashboards in Power BI 
-June 26, 2021 
+Steps to Convert a Node.js API to Python for AWS Lambda... 
+August 25, 2024 
 
 
  
@@ -74,8 +74,8 @@ June 26, 2021
 
 
 
-Effective Management of Social Media Data Extraction: Strategies for Authentication, Security,... 
-March 17, 2024 
+Easy Access to Performance Metrics – Realtime Dashboard 
+February 20, 2019 
 
 
  
@@ -83,8 +83,8 @@ March 17, 2024
 
 
 
-Advanced AI for Road Cam Threat Detection 
-July 22, 2023 
+What is the difference between Artificial Intelligence, Machine Learning, Statistics, and... 
+March 9, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ July 22, 2023
 
 
  
-Benefits of Big Data in Different fields
+Advanced Textual Analytics – Financial Analysis Industry
 
  
 
 
 
  
-OCR (Optical Character Recognition)
+Will machine replace the human in the future of work?
 
  
 
 
 
  
-From Utopia to Reality: Marketing and the Big Data Revolution
+Ranking customer behaviours for business strategy
 
  
 
 
 
  
-Data Management – EGEAS
+Which one is better AI or big data?

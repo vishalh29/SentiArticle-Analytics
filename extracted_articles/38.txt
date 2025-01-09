@@ -100,8 +100,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How does marketing influence businesses and consumers? 
-November 20, 2022 
+Impact of COVID-19 pandemic on entertainment industries such as theaters. 
+June 23, 2020 
 
 
  
@@ -109,8 +109,8 @@ November 20, 2022
 
 
 
-How you lead a project or a team without any technical... 
-September 22, 2020 
+Auctions Data Automation, Collection, ETL, and Management 
+May 23, 2021 
 
 
  
@@ -118,8 +118,8 @@ September 22, 2020
 
 
 
-Impact of COVID-19 (Coronavirus) on the Indian Economy 
-April 15, 2020 
+How we forecast future technologies? 
+January 13, 2021 
 
 
  
@@ -127,8 +127,8 @@ April 15, 2020
 
 
 
-Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio) 
-July 26, 2023 
+ELK Stack – Elastic Queries 
+August 20, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -136,25 +136,25 @@ July 26, 2023
 
 
  
-COVID-19: How have countries been responding?
+Communication with Twilio-Flex
 
  
 
 
 
  
-Auvik, Connectwise integration in Grafana
+Artificial intelligence in business: Separating the real from the hype
 
  
 
 
 
  
-Financial Modeling of the Investment Management Professionals
+Department-Wise KPI Tracking Dashboard with Technician Performance Analysis for AtoZ Dependable...
 
  
 
 
 
  
-Big Data & Analytics to Help Voters Know Their Political Leaders
+Impact of AI in health and medicine

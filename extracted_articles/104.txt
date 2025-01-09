@@ -58,8 +58,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Efficient AWS Infrastructure Setup and Management: Addressing Security, Scalability, and Compliance 
-March 16, 2024 
+Elastic Kibana Specialist to Create Dashboard & Visualization 
+May 16, 2021 
 
 
  
@@ -67,8 +67,8 @@ March 16, 2024
 
 
 
-Design & Develop BERT Question Answering model explanations with visualization 
-September 16, 2022 
+Impact of COVID-19 on Engineering and Medical College during this pandemic... 
+December 7, 2021 
 
 
  
@@ -76,8 +76,8 @@ September 16, 2022
 
 
 
-Rise of e-health and its impact on humans by the year... 
-January 2, 2023 
+Obstacles to data-driven Healthcare 
+July 19, 2019 
 
 
  
@@ -85,8 +85,8 @@ January 2, 2023
 
 
 
-How you lead a project or a team without any technical... 
-September 22, 2020 
+Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the... 
+May 14, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -94,25 +94,25 @@ September 22, 2020
 
 
  
-The Future of Bank Risk Management
+Integrating and Deriving Insights from the Cost of Equity
 
  
 
 
 
  
-End-to-end tool to predict Biofuel prices using IESO data
+Automated Orthopedic Case Report Generation: Harnessing Web Scraping and AI Integration
 
  
 
 
 
  
-Challenges and Opportunities of Big Data in Healthcare
+Environmental impact of the COVID-19 pandemic – Lesson for the Future
 
  
 
 
 
  
-Transforming and Managing a Large-Scale SQL Pedigree Database to Neo4j Graph...
+Data Integration for Marketers

@@ -58,8 +58,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Is Perfection the Greatest enemy of Productivity? 
-August 23, 2020 
+Budget, Sales KPI Dashboard using Power BI 
+July 29, 2021 
 
 
  
@@ -67,8 +67,8 @@ August 23, 2020
 
 
 
-How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud... 
-August 8, 2023 
+ETL Discovery Tool using LLMA, Langchain, OpenAI 
+February 27, 2024 
 
 
  
@@ -76,8 +76,8 @@ August 8, 2023
 
 
 
-AI and NLP-based Solutions to Automate Data Discovery for Venture Capital... 
-July 26, 2023 
+Central School System Logistics Optimization 
+September 27, 2019 
 
 
  
@@ -85,7 +85,7 @@ July 26, 2023
 
 
 
-Efficient Processing and Analysis of Financial Data from PDF Files: Addressing... 
+Time Series Analysis and Trend Forecasting Solution for Predicting News Trends 
 August 25, 2024 
 
 
@@ -94,25 +94,25 @@ August 25, 2024
 
 
  
-Data Analytics as a Tool to Reduce the Cost of Production...
+Structural Equation Modeling (SEM)
 
  
 
 
 
  
-Deploy and view React app(Nextjs) on cloud VM such as GCP,...
+Data from CRM via Zapier to Google Sheets (Dynamic) to PowerBI
 
  
 
 
 
  
-How Robo Human will Impact the Future?
+Car Parking Management System
 
  
 
 
 
  
-IoT & AI/ML Solution for Gas Stations
+Negative effects of marketing on society

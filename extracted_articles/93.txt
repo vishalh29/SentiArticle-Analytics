@@ -58,8 +58,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Car Parking Management System 
-June 12, 2019 
+Marbles Stimulation using python 
+August 30, 2021 
 
 
  
@@ -67,8 +67,8 @@ June 12, 2019
 
 
 
-A Leading Musical Instrumental, Website SEO & Optimization 
-September 5, 2021 
+Realtime Kibana Dashboard for a financial tech firm 
+August 8, 2023 
 
 
  
@@ -76,8 +76,8 @@ September 5, 2021
 
 
 
-Data Transformation 
-July 21, 2023 
+Algorithmic trading for multiple commodities markets, like Forex, Metals, Energy, etc. 
+December 31, 2022 
 
 
  
@@ -85,8 +85,8 @@ July 21, 2023
 
 
 
-A web-based dashboard for the filtered data retrieval of land records 
-September 15, 2022 
+Methodology for ETL Discovery Tool using LLMA, OpenAI, Langchain 
+February 27, 2024 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -94,25 +94,25 @@ September 15, 2022
 
 
  
-Building a Real-Time Log File Visualization Dashboard in Kibana
+Impacts of COVID 19 on Streets Sides Food Stalls
 
  
 
 
 
  
-Estimating the impact of COVID-19 on the world of work
+Data Analytics Solution for the Hospitality Industry
 
  
 
 
 
  
-GPT/OCR API
+Sports Prediction Model for Multiple Sports Leagues
 
  
 
 
 
  
-Prediction Model for Online Casino
+AI and ML technologies to Evaluate Learning Assessments

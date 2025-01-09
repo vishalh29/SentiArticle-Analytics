@@ -58,8 +58,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Database Discovery Tool using OpenAI 
-January 20, 2024 
+Design and develop retool app for wholecell.io and Asana data using... 
+August 6, 2023 
 
 
  
@@ -67,8 +67,8 @@ January 20, 2024
 
 
 
-Student Database Management System 
-February 18, 2019 
+How Big Data Will Impact the Future of Business? 
+July 20, 2021 
 
 
  
@@ -76,8 +76,8 @@ February 18, 2019
 
 
 
-Power BI dashboard to drive insights from complex data to generate... 
-February 26, 2022 
+E-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc… 
+July 21, 2023 
 
 
  
@@ -85,8 +85,8 @@ February 26, 2022
 
 
 
-Modeling & Simulation for Drug Development & Formulation 
-January 9, 2019 
+Will machine replace the human in the future of work? 
+June 24, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -94,25 +94,25 @@ January 9, 2019
 
 
  
-Medical Classification
+Data Management – EGEAS
 
  
 
 
 
  
-How does Metaverse work in the Financial Sector?
+Airbnb & Homeaway Pricing Recommendation
 
  
 
 
 
  
-Estimating the impact of COVID-19 on the world of work
+How advertisement increase your market value?
 
  
 
 
 
  
-Connecting MongoDB Database to Power BI Dashboard: Dashboard Automation
+Design and develop a product recommendation engine based on the features...

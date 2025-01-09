@@ -74,8 +74,8 @@ MOST POPULAR INSIGHTS
 
 
 
-IMPACT OF COVID-19 ON THE GLOBAL ECONOMY 
-April 13, 2020 
+Transforming Insurance Claim Processing with Automation & Artificial Intelligence 
+April 25, 2019 
 
 
  
@@ -83,8 +83,8 @@ April 13, 2020
 
 
 
-Google Local Service Ads (LSA) Leads Dashboard 
-February 14, 2022 
+Data Management Services 
+September 11, 2020 
 
 
  
@@ -92,8 +92,8 @@ February 14, 2022
 
 
 
-Securing Sensitive Financial Data with Privacy-Preserving Machine Learning for Predictive Analytics 
-August 25, 2024 
+Impacts of COVID 19 on Vegetable Vendors 
+November 6, 2021 
 
 
  
@@ -101,8 +101,8 @@ August 25, 2024
 
 
 
-Marbles Stimulation using python 
-August 30, 2021 
+Big Data & Analytics to Help Voters Know Their Political Leaders 
+March 10, 2018 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -110,25 +110,25 @@ August 30, 2021
 
 
  
-How we forecast future technologies?
+Role of big data & analytics in banking and finance
 
  
 
 
 
  
-How can Big Data & Analytics change the healthcare sector in...
+Why does your business need a chatbot?
 
  
 
 
 
  
-Facial Recognition Attendance System
+Methodology for database discovery tool using openai, LLMA, Langchain
 
  
 
 
 
  
-How machine learning will affect your business?
+Automation, ETL, Data Pipeline from MongoDB to Kibana, Elasticsearch

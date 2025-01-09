@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Equity Waterfalls Model-Based SaaS Application for Real Estate Sector 
-July 26, 2023 
+Data Engineering and Management tool (Airbyte) with custom data connectors to... 
+February 28, 2024 
 
 
  
@@ -65,8 +65,8 @@ July 26, 2023
 
 
 
-Are Customer Analytics Driving Big Data Initiatives? 
-July 31, 2017 
+Microsoft Azure chatbot with LUIS (Language Understanding) 
+January 24, 2022 
 
 
  
@@ -74,8 +74,8 @@ July 31, 2017
 
 
 
-Will AI Replace Us or Work With Us? 
-June 25, 2021 
+Add SPF Record, Cpanel, Bigrock 
+August 17, 2019 
 
 
  
@@ -83,8 +83,8 @@ June 25, 2021
 
 
 
-Healthcare Data Dashboard in Kibana 
-May 15, 2021 
+How Data Analytics can help your business respond to the impact... 
+May 1, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ May 15, 2021
 
 
  
-Budget, Sales KPI Dashboard using Power BI
+AI and its impact on the Fashion Industry
 
  
 
 
 
  
-Coronavirus: Impact on the Hospitality Industry
+Airbnb & Homeaway Pricing Recommendation
 
  
 
 
 
  
-Role of Big Data in Academia
+Data Analytics and Optimization Solution for Enhancing Renewable Energy Efficiency
 
  
 
 
 
  
-Big Data & Analytics to Bring Transparency and Good Governance
+Embedding care robots into society and practice: Socio-technical considerations

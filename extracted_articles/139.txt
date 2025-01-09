@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-PPT: Solution to quadratic assignment problems (QAP) using Ant Colony System 
-February 18, 2019 
+Human Rights Outlook 
+July 1, 2020 
 
 
  
@@ -65,8 +65,8 @@ February 18, 2019
 
 
 
-How Artificial Intelligence can deliver real value to companies? 
-October 15, 2018 
+AI agent development and Deployment in Jina AI 
+July 24, 2023 
 
 
  
@@ -74,8 +74,8 @@ October 15, 2018
 
 
 
-Enhancing Data Collection for Research Institutions: Addressing Survey Fatigue and Incorporating... 
-August 25, 2024 
+Deploy and view React app(Nextjs) on cloud VM such as GCP,... 
+August 8, 2023 
 
 
  
@@ -83,8 +83,8 @@ August 25, 2024
 
 
 
-Cloud-Based Data Modeling and Analysis Platform with Drag-and-Drop Interface and OpenAI... 
-August 25, 2024 
+Advanced AI for Thermal Person Detection 
+July 22, 2023 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ August 25, 2024
 
 
  
-How Small Business can survive the Coronavirus Crisis
+Are Customer Analytics Driving Big Data Initiatives?
 
  
 
 
 
  
-ELK Stack – Elastic Queries
+AI agent development and Deployment in Jina AI
 
  
 
 
 
  
-NER Task using BERT with data in XML-format
+Big Data & Analytics to Help Voters Know Their Political Leaders
 
  
 
 
 
  
-Analytics Advantages in Broadcasting Industry
+Azure Data Lake and Power BI Dashboard

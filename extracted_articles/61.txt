@@ -62,8 +62,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Effective Management of Social Media Data Extraction: Strategies for Authentication, Security,... 
-March 17, 2024 
+AWS QuickSight Reporting Dashboard 
+January 16, 2022 
 
 
  
@@ -71,8 +71,8 @@ March 17, 2024
 
 
 
-Using People Analytics To Drive Business Performance 
-October 1, 2018 
+Are we any closer to preventing a nuclear holocaust? 
+October 23, 2020 
 
 
  
@@ -80,8 +80,8 @@ October 1, 2018
 
 
 
-Impact of COVID-19 (Coronavirus) on the Indian Economy 
-April 11, 2020 
+Supplier Insights and Decision Supports for the eCommerce Outlets 
+March 23, 2021 
 
 
  
@@ -89,8 +89,8 @@ April 11, 2020
 
 
 
-Power BI dashboard to drive insights from complex data to generate... 
-February 26, 2022 
+Impact of newly discovered coronavirus on the Global Economy 
+April 12, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -98,25 +98,25 @@ February 26, 2022
 
 
  
-How is Login Logout Time Tracking for Employees in Office done...
+Transalta: Migration of servers from VMware to AWS Client
 
  
 
 
 
  
-How big data and analytics is shaping tomorrow for marketing leaders?
+SurveyMonkey Business Questioner Report using Power BI
 
  
 
 
 
  
-Making a robust way to sync data from airtables to mongoDB...
+Lessons from the past: Some key learnings relevant to the coronavirus...
 
  
 
 
 
  
-Big Data Platform and Data Lake Tool
+Text Summarizing Tool to scrape and summarize pubmed medical papers

@@ -68,8 +68,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How is AI used to solve traffic management? 
-August 26, 2021 
+What is the difference between Artificial Intelligence, Machine Learning, Statistics, and... 
+March 9, 2021 
 
 
  
@@ -77,8 +77,8 @@ August 26, 2021
 
 
 
-Marketing Tool to Notify Leads to Clients over Email and Phone 
-August 30, 2021 
+Making a robust way to sync data from airtables to mongoDB... 
+May 13, 2022 
 
 
  
@@ -86,8 +86,8 @@ August 30, 2021
 
 
 
-Recommendation System Architecture 
-October 28, 2021 
+AI and NLP-based Solutions to Automate Data Discovery for Venture Capital... 
+July 26, 2023 
 
 
  
@@ -95,7 +95,7 @@ October 28, 2021
 
 
 
-Data Transformation 
+Building a Physics-Informed Neural Network for Circuit Evaluation 
 July 21, 2023 
 
 
@@ -104,25 +104,25 @@ July 21, 2023
 
 
  
-Recommendation System Architecture
+Integration of Python and Power BI, Python as an External Tool...
 
  
 
 
 
  
-How are genetic sequencing maps affected by deep learning and AI?
+IoT & AI/ML Solution for Gas Stations
 
  
 
 
 
  
-Real-time dashboard to monitor infrastructure activity and Machines
+Audify Music Player Website in MERN Stack
 
  
 
 
 
  
-AI, ML, Deep Learning Python Tool Deliverables
+Marketing Mix Data Analysis

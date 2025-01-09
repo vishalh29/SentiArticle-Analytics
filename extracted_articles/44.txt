@@ -58,8 +58,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Face Recognition with Deepfills Framework – Deepface 
-October 18, 2024 
+Using People Analytics To Drive Business Performance 
+October 1, 2018 
 
 
  
@@ -67,8 +67,8 @@ October 18, 2024
 
 
 
-Data Studio Dashboard with a data pipeline tool synced with Podio... 
-February 28, 2024 
+Credit Scoring model 
+January 14, 2019 
 
 
  
@@ -76,8 +76,8 @@ February 28, 2024
 
 
 
-Recommendation Engine for Insurance Sector to Expand Business in the Rural... 
-July 29, 2023 
+Transalta: Migration of servers from VMware to AWS Client 
+January 16, 2020 
 
 
  
@@ -85,8 +85,8 @@ July 29, 2023
 
 
 
-Chatbot using VoiceFlow 
-February 15, 2024 
+AI audio and text conversational bot using livekit 
+November 30, 2024 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -94,25 +94,25 @@ February 15, 2024
 
 
  
-AI-driven data analysis AI tool using Langchain for a leading real...
+Is telehealth the future of healthcare?
 
  
 
 
 
  
-A Leading Firm in the USA, SEO and Website Optimization
+Advanced AI for Handgun Detection
 
  
 
 
 
  
-What are the challenges, and acceptance of e-learning during the COVID-19...
+Efficient Database Design and Management: Streamlining Access and Integration for Partner...
 
  
 
 
 
  
-Connecting MongoDB Database to Power BI Dashboard: Dashboard Automation
+Deploy node.js apps to google app engine, google cloud platform

@@ -86,8 +86,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Face Recognition Using DeepFace 
-October 18, 2024 
+Building a Real-Time Log File Visualization Dashboard in Kibana 
+August 25, 2024 
 
 
  
@@ -95,8 +95,8 @@ October 18, 2024
 
 
 
-Rise of Cyber Crime and its Effects 
-August 17, 2023 
+Population and Community Survey of America 
+August 22, 2021 
 
 
  
@@ -104,8 +104,8 @@ August 17, 2023
 
 
 
-ETL Pipeline 
-October 6, 2019 
+MisesBot Activate – Markov Chain, Text Generator 
+March 14, 2021 
 
 
  
@@ -113,8 +113,8 @@ October 6, 2019
 
 
 
-Do Ethnic differences possibly influence the risk of Multiple Sclerosis development... 
-June 4, 2019 
+Voter Profile Analysis and Search Application for Targeted Campaign Engagement Using... 
+August 25, 2024 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -122,25 +122,25 @@ June 4, 2019
 
 
  
-A Leading Firm in the USA, Website SEO & Optimization
+Grafana Dashboard to visualize and analyze sensors’ data
 
  
 
 
 
  
-Lessons from the past: Some key learnings relevant to the coronavirus...
+Rise of cybercrime and its effect by the year 2040.
 
  
 
 
 
  
-Future of Work: How AI Has Entered the Workplace
+Supplier Insights and Decision Supports for the eCommerce Outlets
 
  
 
 
 
  
-Data Engineering and Management tool (Airbyte) with custom data connectors to...
+Car Detection in Satellite Images

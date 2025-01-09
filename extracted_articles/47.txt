@@ -76,8 +76,8 @@ MOST POPULAR INSIGHTS
 
 
 
-An ETL Solution for Currency Data to Google Big Query 
-September 16, 2022 
+Datawarehouse, and Recommendations Engine for AirBNB 
+September 4, 2021 
 
 
  
@@ -85,8 +85,8 @@ September 16, 2022
 
 
 
-Lipsync Automation for Celebrities and Influencers 
-September 5, 2021 
+Structural Equation Modeling (SEM) 
+April 12, 2019 
 
 
  
@@ -94,8 +94,8 @@ September 5, 2021
 
 
 
-Student Database Management System 
-February 18, 2019 
+Which one is better AI or big data? 
+July 19, 2021 
 
 
  
@@ -103,8 +103,8 @@ February 18, 2019
 
 
 
-IoT & AI/ML Solution for Retail Walmart, Big Bazaar, Max, Reliance... 
-January 22, 2020 
+The 8 Steps of AI/ML Project 
+January 14, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -112,25 +112,25 @@ January 22, 2020
 
 
  
-Design and develop solution to anomaly detection classification problems
+Using People Analytics To Drive Business Performance
 
  
 
 
 
  
-Car Detection in Satellite Images
+Dockerize the AWS Lambda for serverless architecture
 
  
 
 
 
  
-Transform API into SDK library and widget
+Impact of COVID-19 pandemic on Tourism & Aviation industries
 
  
 
 
 
  
-MVP for a software that analyses content from audio (Pharma-based)
+Financial Modeling of the Investment Management Professionals

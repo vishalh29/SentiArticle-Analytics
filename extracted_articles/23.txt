@@ -56,8 +56,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Streamlined Trading Operations Interface for MetaTrader 4: Empowering Efficient Management and... 
-March 17, 2024 
+Azure Data Lake and Power BI Dashboard 
+January 16, 2022 
 
 
  
@@ -65,8 +65,8 @@ March 17, 2024
 
 
 
-Marketing Drives Results With A Focus On Problems 
-November 25, 2019 
+Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the... 
+May 14, 2022 
 
 
  
@@ -74,8 +74,8 @@ November 25, 2019
 
 
 
-Rise of Cybercrime and its Effect by the Year 2040. 
-August 16, 2023 
+Dashboard to track the analytics of the website using Google Analytics... 
+July 1, 2022 
 
 
  
@@ -83,8 +83,8 @@ August 16, 2023
 
 
 
-AI Bot Audio to audio 
-April 3, 2024 
+Website Tracking and Insights using Google Analytics, & Google Tag Manager 
+July 1, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -92,25 +92,25 @@ April 3, 2024
 
 
  
-Deep learning impact on areas of e-learning?
+Rise of OTT platform and its impact on entertainment industry by...
 
  
 
 
 
  
-ETL and MLOps Infrastructure for Blockchain Analytics
+How we forecast future technologies?
 
  
 
 
 
  
-Is telemedicine effective in treating patients?
+Data Studio Dashboard with a data pipeline tool synced with Podio...
 
  
 
 
 
  
-Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Rise of Cybercrime and its Effect by the Year 2040.

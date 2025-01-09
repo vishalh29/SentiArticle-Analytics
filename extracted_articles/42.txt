@@ -62,8 +62,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Behavior Based Chi-Square model to Detect Data-Exfiltration over the Network 
-May 15, 2017 
+Face Recognition Using DeepFace 
+October 18, 2024 
 
 
  
@@ -71,8 +71,8 @@ May 15, 2017
 
 
 
-Realtime Kibana Dashboard for a financial tech firm 
-August 8, 2023 
+How to increase social media engagement for marketers? 
+August 15, 2020 
 
 
  
@@ -80,8 +80,8 @@ August 8, 2023
 
 
 
-Future of AI and Machine Roles in the Medical Sector 
-June 26, 2021 
+React Native Apps in the Development Portfolio 
+September 6, 2021 
 
 
  
@@ -89,8 +89,8 @@ June 26, 2021
 
 
 
-MONETIZATION OF DATA – INNOVATE TO HARVEST THE FULL VALUE OF... 
-June 13, 2019 
+Real life data analysis on stationary and non-stationary Time Series 
+February 18, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -98,25 +98,25 @@ June 13, 2019
 
 
  
-Web Data Connector
+Rise of Cybercrime and its Effect by the Year 2040.
 
  
 
 
 
  
-IOT, AI, ML for Machine Tracking
+Pharmaceutical Data Power BI Report
 
  
 
 
 
  
-Rise of Chatbots and its impact on customer support by the...
+Analyze Fraudulent Call Data with Stream Analytics and Visualize Results in...
 
  
 
 
 
  
-Python model for the analysis of sector-specific stock ETFs for investment...
+Ranking customer behaviours for business strategy

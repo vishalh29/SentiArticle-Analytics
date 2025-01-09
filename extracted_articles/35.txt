@@ -73,8 +73,8 @@ MOST POPULAR INSIGHTS
 
 
 
-E-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc… 
-July 21, 2023 
+Marketing, sales, and financial data business dashboard (Wink Report) 
+September 18, 2021 
 
 
  
@@ -82,8 +82,8 @@ July 21, 2023
 
 
 
-Real-time dashboard to monitor infrastructure activity and Machines 
-February 26, 2022 
+Face Recognition Using DeepFace 
+October 18, 2024 
 
 
  
@@ -91,8 +91,8 @@ February 26, 2022
 
 
 
-Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure,... 
-August 18, 2023 
+OCR (Optical Character Recognition) 
+September 24, 2019 
 
 
  
@@ -100,8 +100,8 @@ August 18, 2023
 
 
 
-Splitting of Songs into its Vocals and Instrumental 
-September 4, 2021 
+MONETIZATION OF DATA – INNOVATE TO HARVEST THE FULL VALUE OF... 
+June 13, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -109,25 +109,25 @@ September 4, 2021
 
 
  
-Rise of e-health and its impact on humans by the year...
+Big Data Analytic in Construction & Real Estate
 
  
 
 
 
  
-Online Barometer Dashboard for Smart Schools System
+Design and develop Jenkins shared library
 
  
 
 
 
  
-How Small Business can survive the Coronavirus Crisis
+Environmental impact of the COVID-19 pandemic – Lesson for the Future
 
  
 
 
 
  
-Design and develop solution to anomaly detection classification problems
+Role of Big Data in Healthcare
